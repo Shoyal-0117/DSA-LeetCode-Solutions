@@ -42,13 +42,14 @@ Solutions are synced to GitHub using **LeetHub**, while meaningful alternative a
 
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 5 (Easy: 4, Medium: 1, Hard: 0)
+Solved: 6 (Easy: 4, Medium: 2, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
 | 215 | [Kth Largest Element in an Array](215-kth-largest-element-in-an-array/) | Medium | 2026-09-02 |
 | 169 | [Majority Element](169-majority-element/) | Easy | 2026-09-02 |
+| 344 | [Reverse String](344-reverse-string/) | Easy | 2026-09-02 |
 | 35 | [Search Insert Position](35-search-insert-position/) | Easy | 2026-09-02 |
 | 414 | [Third Maximum Number](414-third-maximum-number/) | Easy | 2026-09-02 |
-| 344 | [Reverse String](344-reverse-string/) | Easy | 2026-09-02 |
+| 189 | [Rotate Array](189-rotate-array/) | Medium | 2026-09-02 |
 <!-- LEETHUB:TABLE:END -->
