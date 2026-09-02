@@ -42,9 +42,10 @@ Solutions are synced to GitHub using **LeetHub**, while meaningful alternative a
 
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 1 (Easy: 1, Medium: 0, Hard: 0)
+Solved: 2 (Easy: 2, Medium: 0, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
-| 169 | [Majority Element](169-majority-element/) | Easy | 2026-09-01 |
+| 169 | [Majority Element](169-majority-element/) | Easy | 2026-09-02 |
+| 35 | [Search Insert Position](35-search-insert-position/) | Easy | 2026-09-02 |
 <!-- LEETHUB:TABLE:END -->
