@@ -46,11 +46,11 @@ Solved: 7 (Easy: 5, Medium: 2, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
+| 2667 | [Create Hello World Function](2667-create-hello-world-function/) | Easy | 2026-09-03 |
 | 215 | [Kth Largest Element in an Array](215-kth-largest-element-in-an-array/) | Medium | 2026-09-03 |
 | 169 | [Majority Element](169-majority-element/) | Easy | 2026-09-03 |
 | 344 | [Reverse String](344-reverse-string/) | Easy | 2026-09-03 |
 | 189 | [Rotate Array](189-rotate-array/) | Medium | 2026-09-03 |
 | 35 | [Search Insert Position](35-search-insert-position/) | Easy | 2026-09-03 |
 | 414 | [Third Maximum Number](414-third-maximum-number/) | Easy | 2026-09-03 |
-| 2667 | [Create Hello World Function](2667-create-hello-world-function/) | Easy | 2026-09-03 |
 <!-- LEETHUB:TABLE:END -->
