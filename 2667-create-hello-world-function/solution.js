@@ -1,4 +1,4 @@
-// 37 ms | 53.2 MB
+// 39 ms | 53.6 MB
 /**
  * @return {Function}
  */
@@ -9,7 +9,5 @@ var createHelloWorld = function() {
     }
 };
 
-/**
- * const f = createHelloWorld();
- * f(); // "Hello World"
- */
+const f = createHelloWorld();
+f(); // "Hello World"
