@@ -42,7 +42,7 @@ Solutions are synced to GitHub using **LeetHub**, while meaningful alternative a
 
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 9 (Easy: 7, Medium: 2, Hard: 0)
+Solved: 10 (Easy: 8, Medium: 2, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -55,4 +55,5 @@ Solved: 9 (Easy: 7, Medium: 2, Hard: 0)
 | 35 | [Search Insert Position](35-search-insert-position/) | Easy | 2026-09-03 |
 | 414 | [Third Maximum Number](414-third-maximum-number/) | Easy | 2026-09-03 |
 | 2704 | [To Be Or Not To Be](2704-to-be-or-not-to-be/) | Easy | 2026-09-03 |
+| 14 | [Longest Common Prefix](14-longest-common-prefix/) | Easy | 2026-09-03 |
 <!-- LEETHUB:TABLE:END -->
