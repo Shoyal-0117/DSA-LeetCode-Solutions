@@ -42,7 +42,7 @@ Solutions are synced to GitHub using **LeetHub**, while meaningful alternative a
 
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 7 (Easy: 5, Medium: 2, Hard: 0)
+Solved: 8 (Easy: 6, Medium: 2, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -53,4 +53,5 @@ Solved: 7 (Easy: 5, Medium: 2, Hard: 0)
 | 189 | [Rotate Array](189-rotate-array/) | Medium | 2026-09-03 |
 | 35 | [Search Insert Position](35-search-insert-position/) | Easy | 2026-09-03 |
 | 414 | [Third Maximum Number](414-third-maximum-number/) | Easy | 2026-09-03 |
+| 2620 | [Counter](2620-counter/) | Easy | 2026-09-03 |
 <!-- LEETHUB:TABLE:END -->
