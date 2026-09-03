@@ -42,7 +42,7 @@ Solutions are synced to GitHub using **LeetHub**, while meaningful alternative a
 
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 11 (Easy: 9, Medium: 2, Hard: 0)
+Solved: 12 (Easy: 10, Medium: 2, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -54,7 +54,8 @@ Solved: 11 (Easy: 9, Medium: 2, Hard: 0)
 | 344 | [Reverse String](344-reverse-string/) | Easy | 2026-09-03 |
 | 189 | [Rotate Array](189-rotate-array/) | Medium | 2026-09-03 |
 | 35 | [Search Insert Position](35-search-insert-position/) | Easy | 2026-09-03 |
+| 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy | 2026-09-03 |
 | 414 | [Third Maximum Number](414-third-maximum-number/) | Easy | 2026-09-03 |
 | 2704 | [To Be Or Not To Be](2704-to-be-or-not-to-be/) | Easy | 2026-09-03 |
-| 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy | 2026-09-03 |
+| 268 | [Missing Number](268-missing-number/) | Easy | 2026-09-03 |
 <!-- LEETHUB:TABLE:END -->
