@@ -48,6 +48,7 @@ Solved: 13 (Easy: 11, Medium: 2, Hard: 0)
 |---|---|---|---|
 | 2620 | [Counter](2620-counter/) | Easy | 2026-09-05 |
 | 2667 | [Create Hello World Function](2667-create-hello-world-function/) | Easy | 2026-09-05 |
+| 724 | [Find Pivot Index](724-find-pivot-index/) | Easy | 2026-09-05 |
 | 215 | [Kth Largest Element in an Array](215-kth-largest-element-in-an-array/) | Medium | 2026-09-05 |
 | 14 | [Longest Common Prefix](14-longest-common-prefix/) | Easy | 2026-09-05 |
 | 169 | [Majority Element](169-majority-element/) | Easy | 2026-09-05 |
@@ -58,5 +59,4 @@ Solved: 13 (Easy: 11, Medium: 2, Hard: 0)
 | 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy | 2026-09-05 |
 | 414 | [Third Maximum Number](414-third-maximum-number/) | Easy | 2026-09-05 |
 | 2704 | [To Be Or Not To Be](2704-to-be-or-not-to-be/) | Easy | 2026-09-05 |
-| 724 | [Find Pivot Index](724-find-pivot-index/) | Easy | 2026-09-05 |
 <!-- LEETHUB:TABLE:END -->
