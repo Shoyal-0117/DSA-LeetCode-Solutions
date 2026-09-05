@@ -42,7 +42,7 @@ Solutions are synced to GitHub using **LeetHub**, while meaningful alternative a
 
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 13 (Easy: 11, Medium: 2, Hard: 0)
+Solved: 14 (Easy: 12, Medium: 2, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -59,4 +59,5 @@ Solved: 13 (Easy: 11, Medium: 2, Hard: 0)
 | 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy | 2026-09-05 |
 | 414 | [Third Maximum Number](414-third-maximum-number/) | Easy | 2026-09-05 |
 | 2704 | [To Be Or Not To Be](2704-to-be-or-not-to-be/) | Easy | 2026-09-05 |
+| 303 | [Range Sum Query - Immutable](303-range-sum-query-immutable/) | Easy | 2026-09-05 |
 <!-- LEETHUB:TABLE:END -->
