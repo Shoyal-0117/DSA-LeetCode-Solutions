@@ -46,6 +46,7 @@ Solved: 15 (Easy: 13, Medium: 2, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
+| 717 | [1-bit and 2-bit Characters](717-1-bit-and-2-bit-characters/) | Easy | 2026-09-08 |
 | 2620 | [Counter](2620-counter/) | Easy | 2026-09-08 |
 | 2667 | [Create Hello World Function](2667-create-hello-world-function/) | Easy | 2026-09-08 |
 | 724 | [Find Pivot Index](724-find-pivot-index/) | Easy | 2026-09-08 |
@@ -60,5 +61,4 @@ Solved: 15 (Easy: 13, Medium: 2, Hard: 0)
 | 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy | 2026-09-08 |
 | 414 | [Third Maximum Number](414-third-maximum-number/) | Easy | 2026-09-08 |
 | 2704 | [To Be Or Not To Be](2704-to-be-or-not-to-be/) | Easy | 2026-09-08 |
-| 717 | [1-bit and 2-bit Characters](717-1-bit-and-2-bit-characters/) | Easy | 2026-09-08 |
 <!-- LEETHUB:TABLE:END -->
