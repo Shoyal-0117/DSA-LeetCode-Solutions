@@ -1,15 +1,13 @@
-// 0 ms | 13.1 MB
-// Backward approach — count trailing ones before the guaranteed final 0
+// 0 ms | 13 MB
 class Solution {
 public:
+// forward approach
     bool isOneBitCharacter(vector<int>& bits) {
         int n = bits.size();
-        int j = n - 2;               // skip the final 0
-        int ones = 0;
-        while (j >= 0 && bits[j] == 1) {
-            ones++;
-            j--;
+        int i = 0;
+        while(i < n-1 ){
+            (bits[i] == 1)? i+=2 : i+=1;
         }
-        return ones % 2 == 0;        // even run → pairs fuse → final 0 is free
+        return i == n-1; 
     }
 };
