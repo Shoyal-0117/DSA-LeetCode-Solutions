@@ -1,4 +1,4 @@
-// 504 ms | 0B
+// 436 ms | 0B
 # Write your MySQL query statement below
 SELECT name
 FROM customer
