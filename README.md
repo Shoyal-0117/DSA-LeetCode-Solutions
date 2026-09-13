@@ -42,11 +42,12 @@ Solutions are synced to GitHub using **LeetHub**, while meaningful alternative a
 
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 19 (Easy: 15, Medium: 4, Hard: 0)
+Solved: 20 (Easy: 15, Medium: 5, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
 | 717 | [1-bit and 2-bit Characters](717-1-bit-and-2-bit-characters/) | Easy | 2026-09-13 |
+| 11 | [Container With Most Water](11-container-with-most-water/) | Medium | 2026-09-13 |
 | 2620 | [Counter](2620-counter/) | Easy | 2026-09-13 |
 | 2667 | [Create Hello World Function](2667-create-hello-world-function/) | Easy | 2026-09-13 |
 | 724 | [Find Pivot Index](724-find-pivot-index/) | Easy | 2026-09-13 |
@@ -64,5 +65,5 @@ Solved: 19 (Easy: 15, Medium: 4, Hard: 0)
 | 2704 | [To Be Or Not To Be](2704-to-be-or-not-to-be/) | Easy | 2026-09-13 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-09-13 |
 | 167 | [Two Sum II - Input Array Is Sorted](167-two-sum-ii-input-array-is-sorted/) | Medium | 2026-09-13 |
-| 11 | [Container With Most Water](11-container-with-most-water/) | Medium | 2026-09-13 |
+| 15 | [3Sum](15-3sum/) | Medium | 2026-09-13 |
 <!-- LEETHUB:TABLE:END -->
