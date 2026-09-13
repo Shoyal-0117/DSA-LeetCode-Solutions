@@ -42,7 +42,7 @@ Solutions are synced to GitHub using **LeetHub**, while meaningful alternative a
 
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 22 (Easy: 17, Medium: 5, Hard: 0)
+Solved: 23 (Easy: 18, Medium: 5, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -58,6 +58,7 @@ Solved: 22 (Easy: 17, Medium: 5, Hard: 0)
 | 268 | [Missing Number](268-missing-number/) | Easy | 2026-09-13 |
 | 283 | [Move Zeroes](283-move-zeroes/) | Easy | 2026-09-13 |
 | 303 | [Range Sum Query - Immutable](303-range-sum-query-immutable/) | Easy | 2026-09-13 |
+| 1757 | [Recyclable and Low Fat Products](1757-recyclable-and-low-fat-products/) | Easy | 2026-09-13 |
 | 344 | [Reverse String](344-reverse-string/) | Easy | 2026-09-13 |
 | 189 | [Rotate Array](189-rotate-array/) | Medium | 2026-09-13 |
 | 35 | [Search Insert Position](35-search-insert-position/) | Easy | 2026-09-13 |
@@ -67,5 +68,5 @@ Solved: 22 (Easy: 17, Medium: 5, Hard: 0)
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-09-13 |
 | 167 | [Two Sum II - Input Array Is Sorted](167-two-sum-ii-input-array-is-sorted/) | Medium | 2026-09-13 |
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-09-13 |
-| 1757 | [Recyclable and Low Fat Products](1757-recyclable-and-low-fat-products/) | Easy | 2026-09-13 |
+| 584 | [Find Customer Referee](584-find-customer-referee/) | Easy | 2026-09-13 |
 <!-- LEETHUB:TABLE:END -->
