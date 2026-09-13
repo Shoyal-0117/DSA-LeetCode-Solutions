@@ -42,7 +42,7 @@ Solutions are synced to GitHub using **LeetHub**, while meaningful alternative a
 
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 18 (Easy: 15, Medium: 3, Hard: 0)
+Solved: 19 (Easy: 15, Medium: 4, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -54,6 +54,7 @@ Solved: 18 (Easy: 15, Medium: 3, Hard: 0)
 | 14 | [Longest Common Prefix](14-longest-common-prefix/) | Easy | 2026-09-13 |
 | 169 | [Majority Element](169-majority-element/) | Easy | 2026-09-13 |
 | 268 | [Missing Number](268-missing-number/) | Easy | 2026-09-13 |
+| 283 | [Move Zeroes](283-move-zeroes/) | Easy | 2026-09-13 |
 | 303 | [Range Sum Query - Immutable](303-range-sum-query-immutable/) | Easy | 2026-09-13 |
 | 344 | [Reverse String](344-reverse-string/) | Easy | 2026-09-13 |
 | 189 | [Rotate Array](189-rotate-array/) | Medium | 2026-09-13 |
@@ -63,5 +64,5 @@ Solved: 18 (Easy: 15, Medium: 3, Hard: 0)
 | 2704 | [To Be Or Not To Be](2704-to-be-or-not-to-be/) | Easy | 2026-09-13 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-09-13 |
 | 167 | [Two Sum II - Input Array Is Sorted](167-two-sum-ii-input-array-is-sorted/) | Medium | 2026-09-13 |
-| 283 | [Move Zeroes](283-move-zeroes/) | Easy | 2026-09-13 |
+| 11 | [Container With Most Water](11-container-with-most-water/) | Medium | 2026-09-13 |
 <!-- LEETHUB:TABLE:END -->
