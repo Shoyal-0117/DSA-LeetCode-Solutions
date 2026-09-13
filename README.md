@@ -42,7 +42,7 @@ Solutions are synced to GitHub using **LeetHub**, while meaningful alternative a
 
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 21 (Easy: 16, Medium: 5, Hard: 0)
+Solved: 22 (Easy: 17, Medium: 5, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -67,4 +67,5 @@ Solved: 21 (Easy: 16, Medium: 5, Hard: 0)
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-09-13 |
 | 167 | [Two Sum II - Input Array Is Sorted](167-two-sum-ii-input-array-is-sorted/) | Medium | 2026-09-13 |
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-09-13 |
+| 1757 | [Recyclable and Low Fat Products](1757-recyclable-and-low-fat-products/) | Easy | 2026-09-13 |
 <!-- LEETHUB:TABLE:END -->
