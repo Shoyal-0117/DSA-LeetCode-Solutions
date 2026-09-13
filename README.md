@@ -42,7 +42,7 @@ Solutions are synced to GitHub using **LeetHub**, while meaningful alternative a
 
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 17 (Easy: 14, Medium: 3, Hard: 0)
+Solved: 18 (Easy: 15, Medium: 3, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -63,4 +63,5 @@ Solved: 17 (Easy: 14, Medium: 3, Hard: 0)
 | 2704 | [To Be Or Not To Be](2704-to-be-or-not-to-be/) | Easy | 2026-09-13 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-09-13 |
 | 167 | [Two Sum II - Input Array Is Sorted](167-two-sum-ii-input-array-is-sorted/) | Medium | 2026-09-13 |
+| 283 | [Move Zeroes](283-move-zeroes/) | Easy | 2026-09-13 |
 <!-- LEETHUB:TABLE:END -->
