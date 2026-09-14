@@ -1,15 +1,17 @@
-// 1 ms | 10.7 MB
+// 0 ms | 9.7 MB
 class Solution {
 public:
     bool isPalindrome(string s) {
-        string filtered;
-        for (char c : s) {
-            if (isalnum(c)) {
-                filtered += tolower(c);
-            }
+        int lptr = 0, rptr = s.size()-1;
+        while (lptr < rptr) {
+            while (lptr < rptr && !isalnum(s[lptr])) lptr++;   // skip ALL non-alnum from left
+            while (lptr < rptr && !isalnum(s[rptr])) rptr--;   // skip ALL non-alnum from right
+
+            if (tolower(s[lptr]) != tolower(s[rptr])) return false;
+
+            lptr++;
+            rptr--;
         }
-        string rev = filtered;
-        reverse(rev.begin(), rev.end());
-        return filtered == rev;
+        return true;
     }
 };
