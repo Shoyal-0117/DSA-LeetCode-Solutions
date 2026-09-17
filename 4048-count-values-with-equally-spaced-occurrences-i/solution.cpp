@@ -1,22 +1,18 @@
-// 11 ms | 30.8 MB
+// 23 ms | 34.1 MB
 class Solution {
 public:
     int countSpecialIntegers(vector<int>& nums) {
-        int distinct  = 0;
-        set<int> s(nums.begin(),nums.end());
-        for(int x : s){
-            if( count(nums.begin(),nums.end(),x) == 3){
-                vector<int> indices;
-                for(int i=0; i < nums.size(); i++){
-                    if(nums[i] == x){
-                        indices.push_back(i);
-                    }
-                }
-                if(indices[1]-indices[0] == indices[2]-indices[1]){
-                    distinct ++;
-                }
+        int n = nums.size();
+        unordered_map<int, vector<int>>mp;
+        for(int i = 0;i < n;i++){
+            mp[nums[i]].push_back(i);
+        }
+        int sol = 0;
+        for(auto it : mp){
+            if(it.second.size() == 3 && (abs(it.second[0] - it.second[1]) == abs(it.second[2] - it.second[1]))){
+                sol++;
             }
         }
-        return distinct ;
+        return sol;
     }
 };
