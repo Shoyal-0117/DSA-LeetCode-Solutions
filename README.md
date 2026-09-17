@@ -50,6 +50,7 @@ Solved: 25 (Easy: 20, Medium: 5, Hard: 0)
 | 15 | [3Sum](15-3sum/) | Medium | 2026-09-17 |
 | 595 | [Big Countries](595-big-countries/) | Easy | 2026-09-17 |
 | 11 | [Container With Most Water](11-container-with-most-water/) | Medium | 2026-09-17 |
+| 4048 | [Count Values With Equally Spaced Occurrences I](4048-count-values-with-equally-spaced-occurrences-i/) | Easy | 2026-09-17 |
 | 2620 | [Counter](2620-counter/) | Easy | 2026-09-17 |
 | 2667 | [Create Hello World Function](2667-create-hello-world-function/) | Easy | 2026-09-17 |
 | 584 | [Find Customer Referee](584-find-customer-referee/) | Easy | 2026-09-17 |
@@ -70,5 +71,4 @@ Solved: 25 (Easy: 20, Medium: 5, Hard: 0)
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-09-17 |
 | 167 | [Two Sum II - Input Array Is Sorted](167-two-sum-ii-input-array-is-sorted/) | Medium | 2026-09-17 |
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-09-17 |
-| 4048 | [Count Values With Equally Spaced Occurrences I](4048-count-values-with-equally-spaced-occurrences-i/) | Easy | 2026-09-17 |
 <!-- LEETHUB:TABLE:END -->
