@@ -42,7 +42,7 @@ Solutions are synced to GitHub using **LeetHub**, while meaningful alternative a
 
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 25 (Easy: 20, Medium: 5, Hard: 0)
+Solved: 26 (Easy: 20, Medium: 6, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -71,4 +71,5 @@ Solved: 25 (Easy: 20, Medium: 5, Hard: 0)
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-09-17 |
 | 167 | [Two Sum II - Input Array Is Sorted](167-two-sum-ii-input-array-is-sorted/) | Medium | 2026-09-17 |
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-09-17 |
+| 4049 | [Count Values With Equally Spaced Occurrences II](4049-count-values-with-equally-spaced-occurrences-ii/) | Medium | 2026-09-17 |
 <!-- LEETHUB:TABLE:END -->
