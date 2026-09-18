@@ -1,0 +1,6 @@
+// 300 ms | 67.2 MB
+import pandas as pd
+
+def selectData(students: pd.DataFrame) -> pd.DataFrame:
+    id_101 = students[students['student_id'] == 101]
+    return id_101[['name', 'age']]
