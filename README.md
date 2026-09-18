@@ -73,11 +73,11 @@ Solved: 34 (Easy: 25, Medium: 9, Hard: 0)
 | 344 | [Reverse String](344-reverse-string/) | Easy | 2026-09-18 |
 | 189 | [Rotate Array](189-rotate-array/) | Medium | 2026-09-18 |
 | 35 | [Search Insert Position](35-search-insert-position/) | Easy | 2026-09-18 |
+| 2880 | [Select Data](2880-select-data/) | Easy | 2026-09-18 |
 | 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy | 2026-09-18 |
 | 414 | [Third Maximum Number](414-third-maximum-number/) | Easy | 2026-09-18 |
 | 2704 | [To Be Or Not To Be](2704-to-be-or-not-to-be/) | Easy | 2026-09-18 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-09-18 |
 | 167 | [Two Sum II - Input Array Is Sorted](167-two-sum-ii-input-array-is-sorted/) | Medium | 2026-09-18 |
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-09-18 |
-| 2880 | [Select Data](2880-select-data/) | Easy | 2026-09-18 |
 <!-- LEETHUB:TABLE:END -->
