@@ -42,7 +42,7 @@ Solutions are synced to GitHub using **LeetHub**, while meaningful alternative a
 
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 31 (Easy: 22, Medium: 9, Hard: 0)
+Solved: 32 (Easy: 23, Medium: 9, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -77,4 +77,5 @@ Solved: 31 (Easy: 22, Medium: 9, Hard: 0)
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-09-18 |
 | 167 | [Two Sum II - Input Array Is Sorted](167-two-sum-ii-input-array-is-sorted/) | Medium | 2026-09-18 |
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-09-18 |
+| 2878 | [Get the Size of a DataFrame](2878-get-the-size-of-a-dataframe/) | Easy | 2026-09-18 |
 <!-- LEETHUB:TABLE:END -->
