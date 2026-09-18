@@ -42,7 +42,7 @@ Solutions are synced to GitHub using **LeetHub**, while meaningful alternative a
 
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 27 (Easy: 21, Medium: 6, Hard: 0)
+Solved: 28 (Easy: 21, Medium: 7, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -59,6 +59,7 @@ Solved: 27 (Easy: 21, Medium: 6, Hard: 0)
 | 215 | [Kth Largest Element in an Array](215-kth-largest-element-in-an-array/) | Medium | 2026-09-18 |
 | 14 | [Longest Common Prefix](14-longest-common-prefix/) | Easy | 2026-09-18 |
 | 169 | [Majority Element](169-majority-element/) | Easy | 2026-09-18 |
+| 643 | [Maximum Average Subarray I](643-maximum-average-subarray-i/) | Easy | 2026-09-18 |
 | 268 | [Missing Number](268-missing-number/) | Easy | 2026-09-18 |
 | 283 | [Move Zeroes](283-move-zeroes/) | Easy | 2026-09-18 |
 | 303 | [Range Sum Query - Immutable](303-range-sum-query-immutable/) | Easy | 2026-09-18 |
@@ -72,5 +73,5 @@ Solved: 27 (Easy: 21, Medium: 6, Hard: 0)
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-09-18 |
 | 167 | [Two Sum II - Input Array Is Sorted](167-two-sum-ii-input-array-is-sorted/) | Medium | 2026-09-18 |
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-09-18 |
-| 643 | [Maximum Average Subarray I](643-maximum-average-subarray-i/) | Easy | 2026-09-18 |
+| 3 | [Longest Substring Without Repeating Characters](3-longest-substring-without-repeating-characters/) | Medium | 2026-09-18 |
 <!-- LEETHUB:TABLE:END -->
