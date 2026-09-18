@@ -1,0 +1,6 @@
+// 282 ms | 66.2 MB
+import pandas as pd
+from typing import List
+def getDataframeSize(players: pd.DataFrame) -> List[int]:
+    x = players.shape
+    return [x[0],x[1]]
