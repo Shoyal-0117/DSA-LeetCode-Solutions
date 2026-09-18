@@ -42,7 +42,7 @@ Solutions are synced to GitHub using **LeetHub**, while meaningful alternative a
 
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 33 (Easy: 24, Medium: 9, Hard: 0)
+Solved: 34 (Easy: 25, Medium: 9, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -55,6 +55,7 @@ Solved: 33 (Easy: 24, Medium: 9, Hard: 0)
 | 2620 | [Counter](2620-counter/) | Easy | 2026-09-18 |
 | 2877 | [Create a DataFrame from List](2877-create-a-dataframe-from-list/) | Easy | 2026-09-18 |
 | 2667 | [Create Hello World Function](2667-create-hello-world-function/) | Easy | 2026-09-18 |
+| 2879 | [Display the First Three Rows](2879-display-the-first-three-rows/) | Easy | 2026-09-18 |
 | 584 | [Find Customer Referee](584-find-customer-referee/) | Easy | 2026-09-18 |
 | 724 | [Find Pivot Index](724-find-pivot-index/) | Easy | 2026-09-18 |
 | 2878 | [Get the Size of a DataFrame](2878-get-the-size-of-a-dataframe/) | Easy | 2026-09-18 |
@@ -78,5 +79,5 @@ Solved: 33 (Easy: 24, Medium: 9, Hard: 0)
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-09-18 |
 | 167 | [Two Sum II - Input Array Is Sorted](167-two-sum-ii-input-array-is-sorted/) | Medium | 2026-09-18 |
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-09-18 |
-| 2879 | [Display the First Three Rows](2879-display-the-first-three-rows/) | Easy | 2026-09-18 |
+| 2880 | [Select Data](2880-select-data/) | Easy | 2026-09-18 |
 <!-- LEETHUB:TABLE:END -->
