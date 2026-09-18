@@ -57,6 +57,7 @@ Solved: 32 (Easy: 23, Medium: 9, Hard: 0)
 | 2667 | [Create Hello World Function](2667-create-hello-world-function/) | Easy | 2026-09-18 |
 | 584 | [Find Customer Referee](584-find-customer-referee/) | Easy | 2026-09-18 |
 | 724 | [Find Pivot Index](724-find-pivot-index/) | Easy | 2026-09-18 |
+| 2878 | [Get the Size of a DataFrame](2878-get-the-size-of-a-dataframe/) | Easy | 2026-09-18 |
 | 215 | [Kth Largest Element in an Array](215-kth-largest-element-in-an-array/) | Medium | 2026-09-18 |
 | 14 | [Longest Common Prefix](14-longest-common-prefix/) | Easy | 2026-09-18 |
 | 3 | [Longest Substring Without Repeating Characters](3-longest-substring-without-repeating-characters/) | Medium | 2026-09-18 |
@@ -77,5 +78,4 @@ Solved: 32 (Easy: 23, Medium: 9, Hard: 0)
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-09-18 |
 | 167 | [Two Sum II - Input Array Is Sorted](167-two-sum-ii-input-array-is-sorted/) | Medium | 2026-09-18 |
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-09-18 |
-| 2878 | [Get the Size of a DataFrame](2878-get-the-size-of-a-dataframe/) | Easy | 2026-09-18 |
 <!-- LEETHUB:TABLE:END -->
