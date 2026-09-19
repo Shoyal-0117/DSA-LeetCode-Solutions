@@ -42,7 +42,7 @@ Solutions are synced to GitHub using **LeetHub**, while meaningful alternative a
 
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 37 (Easy: 26, Medium: 11, Hard: 0)
+Solved: 38 (Easy: 26, Medium: 12, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -76,11 +76,12 @@ Solved: 37 (Easy: 26, Medium: 11, Hard: 0)
 | 35 | [Search Insert Position](35-search-insert-position/) | Easy | 2026-09-19 |
 | 2880 | [Select Data](2880-select-data/) | Easy | 2026-09-19 |
 | 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy | 2026-09-19 |
+| 54 | [Spiral Matrix](54-spiral-matrix/) | Medium | 2026-09-19 |
 | 414 | [Third Maximum Number](414-third-maximum-number/) | Easy | 2026-09-19 |
 | 2704 | [To Be Or Not To Be](2704-to-be-or-not-to-be/) | Easy | 2026-09-19 |
 | 867 | [Transpose Matrix](867-transpose-matrix/) | Easy | 2026-09-19 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-09-19 |
 | 167 | [Two Sum II - Input Array Is Sorted](167-two-sum-ii-input-array-is-sorted/) | Medium | 2026-09-19 |
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-09-19 |
-| 54 | [Spiral Matrix](54-spiral-matrix/) | Medium | 2026-09-19 |
+| 74 | [Search a 2D Matrix](74-search-a-2d-matrix/) | Medium | 2026-09-19 |
 <!-- LEETHUB:TABLE:END -->
