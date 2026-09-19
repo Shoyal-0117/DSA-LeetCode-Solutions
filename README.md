@@ -42,42 +42,43 @@ Solutions are synced to GitHub using **LeetHub**, while meaningful alternative a
 
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 34 (Easy: 25, Medium: 9, Hard: 0)
+Solved: 35 (Easy: 26, Medium: 9, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
-| 717 | [1-bit and 2-bit Characters](717-1-bit-and-2-bit-characters/) | Easy | 2026-09-18 |
-| 15 | [3Sum](15-3sum/) | Medium | 2026-09-18 |
-| 595 | [Big Countries](595-big-countries/) | Easy | 2026-09-18 |
-| 11 | [Container With Most Water](11-container-with-most-water/) | Medium | 2026-09-18 |
-| 4048 | [Count Values With Equally Spaced Occurrences I](4048-count-values-with-equally-spaced-occurrences-i/) | Easy | 2026-09-18 |
-| 4049 | [Count Values With Equally Spaced Occurrences II](4049-count-values-with-equally-spaced-occurrences-ii/) | Medium | 2026-09-18 |
-| 2620 | [Counter](2620-counter/) | Easy | 2026-09-18 |
-| 2877 | [Create a DataFrame from List](2877-create-a-dataframe-from-list/) | Easy | 2026-09-18 |
-| 2667 | [Create Hello World Function](2667-create-hello-world-function/) | Easy | 2026-09-18 |
-| 2879 | [Display the First Three Rows](2879-display-the-first-three-rows/) | Easy | 2026-09-18 |
-| 584 | [Find Customer Referee](584-find-customer-referee/) | Easy | 2026-09-18 |
-| 724 | [Find Pivot Index](724-find-pivot-index/) | Easy | 2026-09-18 |
-| 2878 | [Get the Size of a DataFrame](2878-get-the-size-of-a-dataframe/) | Easy | 2026-09-18 |
-| 215 | [Kth Largest Element in an Array](215-kth-largest-element-in-an-array/) | Medium | 2026-09-18 |
-| 14 | [Longest Common Prefix](14-longest-common-prefix/) | Easy | 2026-09-18 |
-| 3 | [Longest Substring Without Repeating Characters](3-longest-substring-without-repeating-characters/) | Medium | 2026-09-18 |
-| 169 | [Majority Element](169-majority-element/) | Easy | 2026-09-18 |
-| 1004 | [Max Consecutive Ones III](1004-max-consecutive-ones-iii/) | Medium | 2026-09-18 |
-| 643 | [Maximum Average Subarray I](643-maximum-average-subarray-i/) | Easy | 2026-09-18 |
-| 209 | [Minimum Size Subarray Sum](209-minimum-size-subarray-sum/) | Medium | 2026-09-18 |
-| 268 | [Missing Number](268-missing-number/) | Easy | 2026-09-18 |
-| 283 | [Move Zeroes](283-move-zeroes/) | Easy | 2026-09-18 |
-| 303 | [Range Sum Query - Immutable](303-range-sum-query-immutable/) | Easy | 2026-09-18 |
-| 1757 | [Recyclable and Low Fat Products](1757-recyclable-and-low-fat-products/) | Easy | 2026-09-18 |
-| 344 | [Reverse String](344-reverse-string/) | Easy | 2026-09-18 |
-| 189 | [Rotate Array](189-rotate-array/) | Medium | 2026-09-18 |
-| 35 | [Search Insert Position](35-search-insert-position/) | Easy | 2026-09-18 |
-| 2880 | [Select Data](2880-select-data/) | Easy | 2026-09-18 |
-| 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy | 2026-09-18 |
-| 414 | [Third Maximum Number](414-third-maximum-number/) | Easy | 2026-09-18 |
-| 2704 | [To Be Or Not To Be](2704-to-be-or-not-to-be/) | Easy | 2026-09-18 |
-| 1 | [Two Sum](1-two-sum/) | Easy | 2026-09-18 |
-| 167 | [Two Sum II - Input Array Is Sorted](167-two-sum-ii-input-array-is-sorted/) | Medium | 2026-09-18 |
-| 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-09-18 |
+| 717 | [1-bit and 2-bit Characters](717-1-bit-and-2-bit-characters/) | Easy | 2026-09-19 |
+| 15 | [3Sum](15-3sum/) | Medium | 2026-09-19 |
+| 595 | [Big Countries](595-big-countries/) | Easy | 2026-09-19 |
+| 11 | [Container With Most Water](11-container-with-most-water/) | Medium | 2026-09-19 |
+| 4048 | [Count Values With Equally Spaced Occurrences I](4048-count-values-with-equally-spaced-occurrences-i/) | Easy | 2026-09-19 |
+| 4049 | [Count Values With Equally Spaced Occurrences II](4049-count-values-with-equally-spaced-occurrences-ii/) | Medium | 2026-09-19 |
+| 2620 | [Counter](2620-counter/) | Easy | 2026-09-19 |
+| 2877 | [Create a DataFrame from List](2877-create-a-dataframe-from-list/) | Easy | 2026-09-19 |
+| 2667 | [Create Hello World Function](2667-create-hello-world-function/) | Easy | 2026-09-19 |
+| 2879 | [Display the First Three Rows](2879-display-the-first-three-rows/) | Easy | 2026-09-19 |
+| 584 | [Find Customer Referee](584-find-customer-referee/) | Easy | 2026-09-19 |
+| 724 | [Find Pivot Index](724-find-pivot-index/) | Easy | 2026-09-19 |
+| 2878 | [Get the Size of a DataFrame](2878-get-the-size-of-a-dataframe/) | Easy | 2026-09-19 |
+| 215 | [Kth Largest Element in an Array](215-kth-largest-element-in-an-array/) | Medium | 2026-09-19 |
+| 14 | [Longest Common Prefix](14-longest-common-prefix/) | Easy | 2026-09-19 |
+| 3 | [Longest Substring Without Repeating Characters](3-longest-substring-without-repeating-characters/) | Medium | 2026-09-19 |
+| 169 | [Majority Element](169-majority-element/) | Easy | 2026-09-19 |
+| 1004 | [Max Consecutive Ones III](1004-max-consecutive-ones-iii/) | Medium | 2026-09-19 |
+| 643 | [Maximum Average Subarray I](643-maximum-average-subarray-i/) | Easy | 2026-09-19 |
+| 209 | [Minimum Size Subarray Sum](209-minimum-size-subarray-sum/) | Medium | 2026-09-19 |
+| 268 | [Missing Number](268-missing-number/) | Easy | 2026-09-19 |
+| 283 | [Move Zeroes](283-move-zeroes/) | Easy | 2026-09-19 |
+| 303 | [Range Sum Query - Immutable](303-range-sum-query-immutable/) | Easy | 2026-09-19 |
+| 1757 | [Recyclable and Low Fat Products](1757-recyclable-and-low-fat-products/) | Easy | 2026-09-19 |
+| 344 | [Reverse String](344-reverse-string/) | Easy | 2026-09-19 |
+| 189 | [Rotate Array](189-rotate-array/) | Medium | 2026-09-19 |
+| 35 | [Search Insert Position](35-search-insert-position/) | Easy | 2026-09-19 |
+| 2880 | [Select Data](2880-select-data/) | Easy | 2026-09-19 |
+| 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy | 2026-09-19 |
+| 414 | [Third Maximum Number](414-third-maximum-number/) | Easy | 2026-09-19 |
+| 2704 | [To Be Or Not To Be](2704-to-be-or-not-to-be/) | Easy | 2026-09-19 |
+| 1 | [Two Sum](1-two-sum/) | Easy | 2026-09-19 |
+| 167 | [Two Sum II - Input Array Is Sorted](167-two-sum-ii-input-array-is-sorted/) | Medium | 2026-09-19 |
+| 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-09-19 |
+| 867 | [Transpose Matrix](867-transpose-matrix/) | Easy | 2026-09-19 |
 <!-- LEETHUB:TABLE:END -->
