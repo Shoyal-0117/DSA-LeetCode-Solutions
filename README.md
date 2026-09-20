@@ -42,7 +42,7 @@ Solutions are synced to GitHub using **LeetHub**, while meaningful alternative a
 
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 42 (Easy: 28, Medium: 14, Hard: 0)
+Solved: 43 (Easy: 29, Medium: 14, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -54,6 +54,7 @@ Solved: 42 (Easy: 28, Medium: 14, Hard: 0)
 | 4049 | [Count Values With Equally Spaced Occurrences II](4049-count-values-with-equally-spaced-occurrences-ii/) | Medium | 2026-09-20 |
 | 2620 | [Counter](2620-counter/) | Easy | 2026-09-20 |
 | 2877 | [Create a DataFrame from List](2877-create-a-dataframe-from-list/) | Easy | 2026-09-20 |
+| 2881 | [Create a New Column](2881-create-a-new-column/) | Easy | 2026-09-20 |
 | 2667 | [Create Hello World Function](2667-create-hello-world-function/) | Easy | 2026-09-20 |
 | 1886 | [Determine Whether Matrix Can Be Obtained By Rotation](1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy | 2026-09-20 |
 | 2879 | [Display the First Three Rows](2879-display-the-first-three-rows/) | Easy | 2026-09-20 |
@@ -87,5 +88,5 @@ Solved: 42 (Easy: 28, Medium: 14, Hard: 0)
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-09-20 |
 | 167 | [Two Sum II - Input Array Is Sorted](167-two-sum-ii-input-array-is-sorted/) | Medium | 2026-09-20 |
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-09-20 |
-| 2881 | [Create a New Column](2881-create-a-new-column/) | Easy | 2026-09-20 |
+| 2882 | [Drop Duplicate Rows](2882-drop-duplicate-rows/) | Easy | 2026-09-20 |
 <!-- LEETHUB:TABLE:END -->
