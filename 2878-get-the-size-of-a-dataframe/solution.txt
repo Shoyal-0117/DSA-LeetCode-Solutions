@@ -1,5 +1,6 @@
-// 281 ms | 66.5 MB
+// 264 ms | 66.6 MB
 import pandas as pd
 from typing import List
 def getDataframeSize(players: pd.DataFrame) -> List[int]:
-    return list(players.shape)
+    rows, cols = players.shape
+    return [rows,cols]
