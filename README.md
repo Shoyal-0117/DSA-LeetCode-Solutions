@@ -42,7 +42,7 @@ Solutions are synced to GitHub using **LeetHub**, while meaningful alternative a
 
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 45 (Easy: 31, Medium: 14, Hard: 0)
+Solved: 46 (Easy: 31, Medium: 15, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -74,6 +74,7 @@ Solved: 45 (Easy: 31, Medium: 14, Hard: 0)
 | 283 | [Move Zeroes](283-move-zeroes/) | Easy | 2026-09-20 |
 | 303 | [Range Sum Query - Immutable](303-range-sum-query-immutable/) | Easy | 2026-09-20 |
 | 1757 | [Recyclable and Low Fat Products](1757-recyclable-and-low-fat-products/) | Easy | 2026-09-20 |
+| 26 | [Remove Duplicates from Sorted Array](26-remove-duplicates-from-sorted-array/) | Easy | 2026-09-20 |
 | 344 | [Reverse String](344-reverse-string/) | Easy | 2026-09-20 |
 | 189 | [Rotate Array](189-rotate-array/) | Medium | 2026-09-20 |
 | 48 | [Rotate Image](48-rotate-image/) | Medium | 2026-09-20 |
@@ -90,5 +91,5 @@ Solved: 45 (Easy: 31, Medium: 14, Hard: 0)
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-09-20 |
 | 167 | [Two Sum II - Input Array Is Sorted](167-two-sum-ii-input-array-is-sorted/) | Medium | 2026-09-20 |
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-09-20 |
-| 26 | [Remove Duplicates from Sorted Array](26-remove-duplicates-from-sorted-array/) | Easy | 2026-09-20 |
+| 34 | [Find First and Last Position of Element in Sorted Array](34-find-first-and-last-position-of-element-in-sorted-array/) | Medium | 2026-09-20 |
 <!-- LEETHUB:TABLE:END -->
