@@ -42,7 +42,7 @@ Solutions are synced to GitHub using **LeetHub**, while meaningful alternative a
 
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 47 (Easy: 32, Medium: 15, Hard: 0)
+Solved: 48 (Easy: 32, Medium: 16, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -70,6 +70,7 @@ Solved: 47 (Easy: 32, Medium: 15, Hard: 0)
 | 169 | [Majority Element](169-majority-element/) | Easy | 2026-09-20 |
 | 1004 | [Max Consecutive Ones III](1004-max-consecutive-ones-iii/) | Medium | 2026-09-20 |
 | 643 | [Maximum Average Subarray I](643-maximum-average-subarray-i/) | Easy | 2026-09-20 |
+| 88 | [Merge Sorted Array](88-merge-sorted-array/) | Easy | 2026-09-20 |
 | 209 | [Minimum Size Subarray Sum](209-minimum-size-subarray-sum/) | Medium | 2026-09-20 |
 | 268 | [Missing Number](268-missing-number/) | Easy | 2026-09-20 |
 | 283 | [Move Zeroes](283-move-zeroes/) | Easy | 2026-09-20 |
@@ -92,5 +93,5 @@ Solved: 47 (Easy: 32, Medium: 15, Hard: 0)
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-09-20 |
 | 167 | [Two Sum II - Input Array Is Sorted](167-two-sum-ii-input-array-is-sorted/) | Medium | 2026-09-20 |
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-09-20 |
-| 88 | [Merge Sorted Array](88-merge-sorted-array/) | Easy | 2026-09-20 |
+| 75 | [Sort Colors](75-sort-colors/) | Medium | 2026-09-20 |
 <!-- LEETHUB:TABLE:END -->
