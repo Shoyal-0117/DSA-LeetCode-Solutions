@@ -42,7 +42,7 @@ Solutions are synced to GitHub using **LeetHub**, while meaningful alternative a
 
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 44 (Easy: 30, Medium: 14, Hard: 0)
+Solved: 45 (Easy: 31, Medium: 14, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -59,6 +59,7 @@ Solved: 44 (Easy: 30, Medium: 14, Hard: 0)
 | 1886 | [Determine Whether Matrix Can Be Obtained By Rotation](1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy | 2026-09-20 |
 | 2879 | [Display the First Three Rows](2879-display-the-first-three-rows/) | Easy | 2026-09-20 |
 | 2882 | [Drop Duplicate Rows](2882-drop-duplicate-rows/) | Easy | 2026-09-20 |
+| 2883 | [Drop Missing Data](2883-drop-missing-data/) | Easy | 2026-09-20 |
 | 584 | [Find Customer Referee](584-find-customer-referee/) | Easy | 2026-09-20 |
 | 724 | [Find Pivot Index](724-find-pivot-index/) | Easy | 2026-09-20 |
 | 2878 | [Get the Size of a DataFrame](2878-get-the-size-of-a-dataframe/) | Easy | 2026-09-20 |
@@ -89,5 +90,5 @@ Solved: 44 (Easy: 30, Medium: 14, Hard: 0)
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-09-20 |
 | 167 | [Two Sum II - Input Array Is Sorted](167-two-sum-ii-input-array-is-sorted/) | Medium | 2026-09-20 |
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-09-20 |
-| 2883 | [Drop Missing Data](2883-drop-missing-data/) | Easy | 2026-09-20 |
+| 26 | [Remove Duplicates from Sorted Array](26-remove-duplicates-from-sorted-array/) | Easy | 2026-09-20 |
 <!-- LEETHUB:TABLE:END -->
