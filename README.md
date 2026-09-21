@@ -42,7 +42,7 @@ Solutions are synced to GitHub using **LeetHub**, while meaningful alternative a
 
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 49 (Easy: 33, Medium: 16, Hard: 0)
+Solved: 50 (Easy: 34, Medium: 16, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -68,6 +68,7 @@ Solved: 49 (Easy: 33, Medium: 16, Hard: 0)
 | 14 | [Longest Common Prefix](14-longest-common-prefix/) | Easy | 2026-09-21 |
 | 3 | [Longest Substring Without Repeating Characters](3-longest-substring-without-repeating-characters/) | Medium | 2026-09-21 |
 | 169 | [Majority Element](169-majority-element/) | Easy | 2026-09-21 |
+| 1572 | [Matrix Diagonal Sum](1572-matrix-diagonal-sum/) | Easy | 2026-09-21 |
 | 1004 | [Max Consecutive Ones III](1004-max-consecutive-ones-iii/) | Medium | 2026-09-21 |
 | 643 | [Maximum Average Subarray I](643-maximum-average-subarray-i/) | Easy | 2026-09-21 |
 | 88 | [Merge Sorted Array](88-merge-sorted-array/) | Easy | 2026-09-21 |
@@ -94,5 +95,5 @@ Solved: 49 (Easy: 33, Medium: 16, Hard: 0)
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-09-21 |
 | 167 | [Two Sum II - Input Array Is Sorted](167-two-sum-ii-input-array-is-sorted/) | Medium | 2026-09-21 |
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-09-21 |
-| 1572 | [Matrix Diagonal Sum](1572-matrix-diagonal-sum/) | Easy | 2026-09-21 |
+| 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/) | Easy | 2026-09-21 |
 <!-- LEETHUB:TABLE:END -->
