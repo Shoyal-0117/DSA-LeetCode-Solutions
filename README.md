@@ -76,6 +76,7 @@ Solved: 52 (Easy: 35, Medium: 17, Hard: 0)
 | 209 | [Minimum Size Subarray Sum](209-minimum-size-subarray-sum/) | Medium | 2026-09-24 |
 | 268 | [Missing Number](268-missing-number/) | Easy | 2026-09-24 |
 | 283 | [Move Zeroes](283-move-zeroes/) | Easy | 2026-09-24 |
+| 200 | [Number of Islands](200-number-of-islands/) | Medium | 2026-09-24 |
 | 303 | [Range Sum Query - Immutable](303-range-sum-query-immutable/) | Easy | 2026-09-24 |
 | 1757 | [Recyclable and Low Fat Products](1757-recyclable-and-low-fat-products/) | Easy | 2026-09-24 |
 | 26 | [Remove Duplicates from Sorted Array](26-remove-duplicates-from-sorted-array/) | Easy | 2026-09-24 |
@@ -97,5 +98,4 @@ Solved: 52 (Easy: 35, Medium: 17, Hard: 0)
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-09-24 |
 | 167 | [Two Sum II - Input Array Is Sorted](167-two-sum-ii-input-array-is-sorted/) | Medium | 2026-09-24 |
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-09-24 |
-| 200 | [Number of Islands](200-number-of-islands/) | Medium | 2026-09-24 |
 <!-- LEETHUB:TABLE:END -->
