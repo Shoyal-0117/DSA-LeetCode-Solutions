@@ -1,41 +1,28 @@
-// 28 ms | 24.5 MB
+// 29 ms | 16.4 MB
 class Solution {
 private:
-    void bfs_land(int row, int col, vector<vector<int>>& visited, vector<vector<char>>& grid, int n, int m) {
-        visited[row][col] = 1;
-        queue<pair<int, int>> q;
-        q.push({row, col});
+    void dfs_land(vector<vector<char>>& grid, int row, int col, int n, int m) {
+        if (row < 0 || col < 0 || row == n || col == m || grid[row][col] != '1') return;
 
-        int dr[] = {-1, 1, 0, 0};
-        int dc[] = {0, 0, -1, 1};
+        grid[row][col] = '0';
 
-        while (!q.empty()) {
-            int r = q.front().first, c = q.front().second;
-            q.pop();
-
-            for (int d = 0; d < 4; d++) {
-                int new_row = r + dr[d], new_col = c + dc[d];
-
-                if (new_row >= 0 && new_row < n && new_col >= 0 && new_col < m
-                    && grid[new_row][new_col] == '1' && !visited[new_row][new_col]) {
-                    visited[new_row][new_col] = 1;
-                    q.push({new_row, new_col});
-                }
-            }
-        }
+        dfs_land(grid, row-1, col, n, m);
+        dfs_land(grid, row+1, col, n, m);
+        dfs_land(grid, row, col+1, n, m);
+        dfs_land(grid, row, col-1, n, m);
     }
 
 public:
     int numIslands(vector<vector<char>>& grid) {
-        int n = grid.size(), m = grid[0].size();
-        vector<vector<int>> visited(n, vector<int>(m, 0));
+        int n = grid.size();
+        int m = grid[0].size();
         int islands = 0;
 
         for (int row = 0; row < n; row++) {
             for (int col = 0; col < m; col++) {
-                if (!visited[row][col] && grid[row][col] == '1') {
+                if (grid[row][col] == '1') {
                     islands++;
-                    bfs_land(row, col, visited, grid, n, m);
+                    dfs_land(grid, row, col, n, m);
                 }
             }
         }
