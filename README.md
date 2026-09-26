@@ -42,7 +42,7 @@ Solutions are synced to GitHub using **LeetHub**, while meaningful alternative a
 
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 53 (Easy: 36, Medium: 17, Hard: 0)
+Solved: 54 (Easy: 36, Medium: 18, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -99,4 +99,5 @@ Solved: 53 (Easy: 36, Medium: 17, Hard: 0)
 | 167 | [Two Sum II - Input Array Is Sorted](167-two-sum-ii-input-array-is-sorted/) | Medium | 2026-09-26 |
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-09-26 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-09-26 |
+| 4053 | [Minimum Operations to Make Every Element Palindromic](4053-minimum-operations-to-make-every-element-palindromic/) | Medium | 2026-09-26 |
 <!-- LEETHUB:TABLE:END -->
