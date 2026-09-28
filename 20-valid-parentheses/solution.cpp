@@ -1,26 +1,19 @@
-// 0 ms | 8.7 MB
+// 0 ms | 9 MB
 class Solution {
 public:
     bool isValid(string s) {
-        
-        if (s.size() % 2) return false;
-
+        if (s.size() % 2)
+            return false;
         stack<char> st;
-        for (auto ch : s) {
-            if (ch == '(' || ch == '{' || ch == '[') {
-                st.push(ch);
-            } else if ((ch == ')' || ch == '}' || ch == ']') && st.empty()) {
-                return false;
-            } else {
-                if (ch == ')' && st.top() == '(') {
-                    st.pop();
-                } else if (ch == '}' && st.top() == '{') {
-                    st.pop();
-                } else if (ch == ']' && st.top() == '[') {
-                    st.pop();
-                } else {
+        unordered_map<char, char> match = {{')', '('}, {'}', '{'}, {']', '['}};
+
+        for (char ch : s) {
+            if (match.count(ch)) {
+                if (st.empty() || st.top() != match[ch])
                     return false;
-                }
+                st.pop();
+            } else {
+                st.push(ch);
             }
         }
         return st.empty();
