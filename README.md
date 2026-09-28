@@ -42,7 +42,7 @@ Solutions are synced to GitHub using **LeetHub**, while meaningful alternative a
 
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 55 (Easy: 37, Medium: 18, Hard: 0)
+Solved: 56 (Easy: 37, Medium: 19, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -72,6 +72,7 @@ Solved: 55 (Easy: 37, Medium: 18, Hard: 0)
 | 1572 | [Matrix Diagonal Sum](1572-matrix-diagonal-sum/) | Easy | 2026-09-28 |
 | 1004 | [Max Consecutive Ones III](1004-max-consecutive-ones-iii/) | Medium | 2026-09-28 |
 | 643 | [Maximum Average Subarray I](643-maximum-average-subarray-i/) | Easy | 2026-09-28 |
+| 1614 | [Maximum Nesting Depth of the Parentheses](1614-maximum-nesting-depth-of-the-parentheses/) | Easy | 2026-09-28 |
 | 88 | [Merge Sorted Array](88-merge-sorted-array/) | Easy | 2026-09-28 |
 | 4053 | [Minimum Operations to Make Every Element Palindromic](4053-minimum-operations-to-make-every-element-palindromic/) | Medium | 2026-09-28 |
 | 209 | [Minimum Size Subarray Sum](209-minimum-size-subarray-sum/) | Medium | 2026-09-28 |
@@ -100,5 +101,5 @@ Solved: 55 (Easy: 37, Medium: 18, Hard: 0)
 | 167 | [Two Sum II - Input Array Is Sorted](167-two-sum-ii-input-array-is-sorted/) | Medium | 2026-09-28 |
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-09-28 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-09-28 |
-| 1614 | [Maximum Nesting Depth of the Parentheses](1614-maximum-nesting-depth-of-the-parentheses/) | Easy | 2026-09-28 |
+| 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium | 2026-09-28 |
 <!-- LEETHUB:TABLE:END -->
