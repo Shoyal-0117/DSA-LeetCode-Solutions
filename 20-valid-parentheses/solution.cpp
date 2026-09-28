@@ -1,27 +1,28 @@
-// 0 ms | 9 MB
+// 0 ms | 8.7 MB
 class Solution {
 public:
     bool isValid(string s) {
-        stack<char> st;
-        unordered_set<char> closing_brackets = {')', '}', ']'};
-        unordered_map<char, char> bracket_pairs = { {')', '('},
-                                                    {'}', '{'},
-                                                    {']', '['}
-        };
+        
+        if (s.size() % 2) return false;
 
-        for(auto ch: s){
-            if(auto b = closing_brackets.find(ch); b != closing_brackets.end()){
-                if(st.empty()) return false;
-                else {
-                    if (bracket_pairs[ch] == st.top()) st.pop();
-                    else return false;
+        stack<char> st;
+        for (auto ch : s) {
+            if (ch == '(' || ch == '{' || ch == '[') {
+                st.push(ch);
+            } else if ((ch == ')' || ch == '}' || ch == ']') && st.empty()) {
+                return false;
+            } else {
+                if (ch == ')' && st.top() == '(') {
+                    st.pop();
+                } else if (ch == '}' && st.top() == '{') {
+                    st.pop();
+                } else if (ch == ']' && st.top() == '[') {
+                    st.pop();
+                } else {
+                    return false;
                 }
             }
-            else{
-                st.push(ch);
-            }
         }
-
         return st.empty();
     }
 };
