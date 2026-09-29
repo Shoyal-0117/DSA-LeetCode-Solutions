@@ -42,12 +42,13 @@ Solutions are synced to GitHub using **LeetHub**, while meaningful alternative a
 
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 58 (Easy: 39, Medium: 19, Hard: 0)
+Solved: 59 (Easy: 40, Medium: 19, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
 | 717 | [1-bit and 2-bit Characters](717-1-bit-and-2-bit-characters/) | Easy | 2026-09-29 |
 | 15 | [3Sum](15-3sum/) | Medium | 2026-09-29 |
+| 844 | [Backspace String Compare](844-backspace-string-compare/) | Easy | 2026-09-29 |
 | 595 | [Big Countries](595-big-countries/) | Easy | 2026-09-29 |
 | 11 | [Container With Most Water](11-container-with-most-water/) | Medium | 2026-09-29 |
 | 4048 | [Count Values With Equally Spaced Occurrences I](4048-count-values-with-equally-spaced-occurrences-i/) | Easy | 2026-09-29 |
@@ -103,5 +104,5 @@ Solved: 58 (Easy: 39, Medium: 19, Hard: 0)
 | 167 | [Two Sum II - Input Array Is Sorted](167-two-sum-ii-input-array-is-sorted/) | Medium | 2026-09-29 |
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-09-29 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-09-29 |
-| 844 | [Backspace String Compare](844-backspace-string-compare/) | Easy | 2026-09-29 |
+| 225 | [Implement Stack using Queues](225-implement-stack-using-queues/) | Easy | 2026-09-29 |
 <!-- LEETHUB:TABLE:END -->
