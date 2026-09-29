@@ -42,7 +42,7 @@ Solutions are synced to GitHub using **LeetHub**, while meaningful alternative a
 
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 59 (Easy: 40, Medium: 19, Hard: 0)
+Solved: 60 (Easy: 41, Medium: 19, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -66,6 +66,7 @@ Solved: 59 (Easy: 40, Medium: 19, Hard: 0)
 | 724 | [Find Pivot Index](724-find-pivot-index/) | Easy | 2026-09-29 |
 | 733 | [Flood Fill](733-flood-fill/) | Easy | 2026-09-29 |
 | 2878 | [Get the Size of a DataFrame](2878-get-the-size-of-a-dataframe/) | Easy | 2026-09-29 |
+| 225 | [Implement Stack using Queues](225-implement-stack-using-queues/) | Easy | 2026-09-29 |
 | 215 | [Kth Largest Element in an Array](215-kth-largest-element-in-an-array/) | Medium | 2026-09-29 |
 | 14 | [Longest Common Prefix](14-longest-common-prefix/) | Easy | 2026-09-29 |
 | 3 | [Longest Substring Without Repeating Characters](3-longest-substring-without-repeating-characters/) | Medium | 2026-09-29 |
@@ -104,5 +105,5 @@ Solved: 59 (Easy: 40, Medium: 19, Hard: 0)
 | 167 | [Two Sum II - Input Array Is Sorted](167-two-sum-ii-input-array-is-sorted/) | Medium | 2026-09-29 |
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-09-29 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-09-29 |
-| 225 | [Implement Stack using Queues](225-implement-stack-using-queues/) | Easy | 2026-09-29 |
+| 232 | [Implement Queue using Stacks](232-implement-queue-using-stacks/) | Easy | 2026-09-29 |
 <!-- LEETHUB:TABLE:END -->
