@@ -57,6 +57,7 @@ Solved: 62 (Easy: 42, Medium: 20, Hard: 0)
 | 2877 | [Create a DataFrame from List](2877-create-a-dataframe-from-list/) | Easy | 2026-09-30 |
 | 2881 | [Create a New Column](2881-create-a-new-column/) | Easy | 2026-09-30 |
 | 2667 | [Create Hello World Function](2667-create-hello-world-function/) | Easy | 2026-09-30 |
+| 739 | [Daily Temperatures](739-daily-temperatures/) | Medium | 2026-09-30 |
 | 1886 | [Determine Whether Matrix Can Be Obtained By Rotation](1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy | 2026-09-30 |
 | 2879 | [Display the First Three Rows](2879-display-the-first-three-rows/) | Easy | 2026-09-30 |
 | 2882 | [Drop Duplicate Rows](2882-drop-duplicate-rows/) | Easy | 2026-09-30 |
@@ -107,5 +108,4 @@ Solved: 62 (Easy: 42, Medium: 20, Hard: 0)
 | 167 | [Two Sum II - Input Array Is Sorted](167-two-sum-ii-input-array-is-sorted/) | Medium | 2026-09-30 |
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-09-30 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-09-30 |
-| 739 | [Daily Temperatures](739-daily-temperatures/) | Medium | 2026-09-30 |
 <!-- LEETHUB:TABLE:END -->
