@@ -82,6 +82,7 @@ Solved: 64 (Easy: 43, Medium: 21, Hard: 0)
 | 4053 | [Minimum Operations to Make Every Element Palindromic](4053-minimum-operations-to-make-every-element-palindromic/) | Medium | 2026-09-30 |
 | 209 | [Minimum Size Subarray Sum](209-minimum-size-subarray-sum/) | Medium | 2026-09-30 |
 | 268 | [Missing Number](268-missing-number/) | Easy | 2026-09-30 |
+| 2884 | [Modify Columns](2884-modify-columns/) | Easy | 2026-09-30 |
 | 283 | [Move Zeroes](283-move-zeroes/) | Easy | 2026-09-30 |
 | 496 | [Next Greater Element I](496-next-greater-element-i/) | Easy | 2026-09-30 |
 | 200 | [Number of Islands](200-number-of-islands/) | Medium | 2026-09-30 |
@@ -109,5 +110,4 @@ Solved: 64 (Easy: 43, Medium: 21, Hard: 0)
 | 167 | [Two Sum II - Input Array Is Sorted](167-two-sum-ii-input-array-is-sorted/) | Medium | 2026-09-30 |
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-09-30 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-09-30 |
-| 2884 | [Modify Columns](2884-modify-columns/) | Easy | 2026-09-30 |
 <!-- LEETHUB:TABLE:END -->
