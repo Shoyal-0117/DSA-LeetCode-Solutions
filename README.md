@@ -42,7 +42,7 @@ Solutions are synced to GitHub using **LeetHub**, while meaningful alternative a
 
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 66 (Easy: 45, Medium: 21, Hard: 0)
+Solved: 67 (Easy: 46, Medium: 21, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -50,6 +50,7 @@ Solved: 66 (Easy: 45, Medium: 21, Hard: 0)
 | 15 | [3Sum](15-3sum/) | Medium | 2026-09-30 |
 | 844 | [Backspace String Compare](844-backspace-string-compare/) | Easy | 2026-09-30 |
 | 595 | [Big Countries](595-big-countries/) | Easy | 2026-09-30 |
+| 2886 | [Change Data Type](2886-change-data-type/) | Easy | 2026-09-30 |
 | 11 | [Container With Most Water](11-container-with-most-water/) | Medium | 2026-09-30 |
 | 4048 | [Count Values With Equally Spaced Occurrences I](4048-count-values-with-equally-spaced-occurrences-i/) | Easy | 2026-09-30 |
 | 4049 | [Count Values With Equally Spaced Occurrences II](4049-count-values-with-equally-spaced-occurrences-ii/) | Medium | 2026-09-30 |
@@ -111,5 +112,5 @@ Solved: 66 (Easy: 45, Medium: 21, Hard: 0)
 | 167 | [Two Sum II - Input Array Is Sorted](167-two-sum-ii-input-array-is-sorted/) | Medium | 2026-09-30 |
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-09-30 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-09-30 |
-| 2886 | [Change Data Type](2886-change-data-type/) | Easy | 2026-09-30 |
+| 2887 | [Fill Missing Data](2887-fill-missing-data/) | Easy | 2026-09-30 |
 <!-- LEETHUB:TABLE:END -->
