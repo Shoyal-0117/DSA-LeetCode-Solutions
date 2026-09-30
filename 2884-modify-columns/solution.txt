@@ -1,6 +1,7 @@
-// 277 ms | 66.4 MB
+// 297 ms | 65.4 MB
 import pandas as pd
 
 def modifySalaryColumn(employees: pd.DataFrame) -> pd.DataFrame:
-    employees['salary'] = employees['salary']*2
-    return employees
+    # employees['salary'] = employees['salary']*2
+    # return employees
+     return employees.assign(salary = employees['salary'] * 2)
