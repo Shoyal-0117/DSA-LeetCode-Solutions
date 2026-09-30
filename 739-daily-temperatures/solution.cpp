@@ -1,4 +1,4 @@
-// 21 ms | 102.8 MB
+// 18 ms | 102.9 MB
 class Solution {
 public:
     vector<int> dailyTemperatures(vector<int>& temperatures) {
@@ -8,12 +8,11 @@ public:
             while(!st.empty() && temperatures[st.top()] <= temperatures[i]){
                 st.pop();
             }
-            if(st.empty()){
-                days[i] = 0;
-            }else{
+            if(!st.empty()){
                 days[i] = st.top() - i;
             }
             st.push(i);
+
         }
         return days;
     }
