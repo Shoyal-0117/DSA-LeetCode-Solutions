@@ -42,7 +42,7 @@ Solutions are synced to GitHub using **LeetHub**, while meaningful alternative a
 
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 64 (Easy: 43, Medium: 21, Hard: 0)
+Solved: 65 (Easy: 44, Medium: 21, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -110,4 +110,5 @@ Solved: 64 (Easy: 43, Medium: 21, Hard: 0)
 | 167 | [Two Sum II - Input Array Is Sorted](167-two-sum-ii-input-array-is-sorted/) | Medium | 2026-09-30 |
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-09-30 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-09-30 |
+| 2885 | [Rename Columns](2885-rename-columns/) | Easy | 2026-09-30 |
 <!-- LEETHUB:TABLE:END -->
