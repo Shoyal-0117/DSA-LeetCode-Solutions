@@ -42,7 +42,7 @@ Solutions are synced to GitHub using **LeetHub**, while meaningful alternative a
 
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 69 (Easy: 48, Medium: 21, Hard: 0)
+Solved: 70 (Easy: 49, Medium: 21, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -95,6 +95,7 @@ Solved: 69 (Easy: 48, Medium: 21, Hard: 0)
 | 1021 | [Remove Outermost Parentheses](1021-remove-outermost-parentheses/) | Easy | 2026-09-30 |
 | 2885 | [Rename Columns](2885-rename-columns/) | Easy | 2026-09-30 |
 | 2888 | [Reshape Data: Concatenate](2888-reshape-data-concatenate/) | Easy | 2026-09-30 |
+| 2889 | [Reshape Data: Pivot](2889-reshape-data-pivot/) | Easy | 2026-09-30 |
 | 344 | [Reverse String](344-reverse-string/) | Easy | 2026-09-30 |
 | 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/) | Easy | 2026-09-30 |
 | 189 | [Rotate Array](189-rotate-array/) | Medium | 2026-09-30 |
@@ -114,5 +115,5 @@ Solved: 69 (Easy: 48, Medium: 21, Hard: 0)
 | 167 | [Two Sum II - Input Array Is Sorted](167-two-sum-ii-input-array-is-sorted/) | Medium | 2026-09-30 |
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-09-30 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-09-30 |
-| 2889 | [Reshape Data: Pivot](2889-reshape-data-pivot/) | Easy | 2026-09-30 |
+| 2890 | [Reshape Data: Melt](2890-reshape-data-melt/) | Easy | 2026-09-30 |
 <!-- LEETHUB:TABLE:END -->
