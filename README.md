@@ -42,7 +42,7 @@ Solutions are synced to GitHub using **LeetHub**, while meaningful alternative a
 
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 67 (Easy: 46, Medium: 21, Hard: 0)
+Solved: 68 (Easy: 47, Medium: 21, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -63,6 +63,7 @@ Solved: 67 (Easy: 46, Medium: 21, Hard: 0)
 | 2879 | [Display the First Three Rows](2879-display-the-first-three-rows/) | Easy | 2026-09-30 |
 | 2882 | [Drop Duplicate Rows](2882-drop-duplicate-rows/) | Easy | 2026-09-30 |
 | 2883 | [Drop Missing Data](2883-drop-missing-data/) | Easy | 2026-09-30 |
+| 2887 | [Fill Missing Data](2887-fill-missing-data/) | Easy | 2026-09-30 |
 | 584 | [Find Customer Referee](584-find-customer-referee/) | Easy | 2026-09-30 |
 | 34 | [Find First and Last Position of Element in Sorted Array](34-find-first-and-last-position-of-element-in-sorted-array/) | Medium | 2026-09-30 |
 | 724 | [Find Pivot Index](724-find-pivot-index/) | Easy | 2026-09-30 |
@@ -112,5 +113,5 @@ Solved: 67 (Easy: 46, Medium: 21, Hard: 0)
 | 167 | [Two Sum II - Input Array Is Sorted](167-two-sum-ii-input-array-is-sorted/) | Medium | 2026-09-30 |
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-09-30 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-09-30 |
-| 2887 | [Fill Missing Data](2887-fill-missing-data/) | Easy | 2026-09-30 |
+| 2888 | [Reshape Data: Concatenate](2888-reshape-data-concatenate/) | Easy | 2026-09-30 |
 <!-- LEETHUB:TABLE:END -->
