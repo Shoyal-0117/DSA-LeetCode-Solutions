@@ -42,7 +42,7 @@ Solutions are synced to GitHub using **LeetHub**, while meaningful alternative a
 
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 62 (Easy: 42, Medium: 20, Hard: 0)
+Solved: 64 (Easy: 43, Medium: 21, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -85,6 +85,7 @@ Solved: 62 (Easy: 42, Medium: 20, Hard: 0)
 | 283 | [Move Zeroes](283-move-zeroes/) | Easy | 2026-09-30 |
 | 496 | [Next Greater Element I](496-next-greater-element-i/) | Easy | 2026-09-30 |
 | 200 | [Number of Islands](200-number-of-islands/) | Medium | 2026-09-30 |
+| 901 | [Online Stock Span](901-online-stock-span/) | Medium | 2026-09-30 |
 | 303 | [Range Sum Query - Immutable](303-range-sum-query-immutable/) | Easy | 2026-09-30 |
 | 1757 | [Recyclable and Low Fat Products](1757-recyclable-and-low-fat-products/) | Easy | 2026-09-30 |
 | 26 | [Remove Duplicates from Sorted Array](26-remove-duplicates-from-sorted-array/) | Easy | 2026-09-30 |
@@ -108,4 +109,5 @@ Solved: 62 (Easy: 42, Medium: 20, Hard: 0)
 | 167 | [Two Sum II - Input Array Is Sorted](167-two-sum-ii-input-array-is-sorted/) | Medium | 2026-09-30 |
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-09-30 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-09-30 |
+| 2884 | [Modify Columns](2884-modify-columns/) | Easy | 2026-09-30 |
 <!-- LEETHUB:TABLE:END -->
