@@ -42,7 +42,7 @@ Solutions are synced to GitHub using **LeetHub**, while meaningful alternative a
 
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 65 (Easy: 44, Medium: 21, Hard: 0)
+Solved: 66 (Easy: 45, Medium: 21, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -91,6 +91,7 @@ Solved: 65 (Easy: 44, Medium: 21, Hard: 0)
 | 1757 | [Recyclable and Low Fat Products](1757-recyclable-and-low-fat-products/) | Easy | 2026-09-30 |
 | 26 | [Remove Duplicates from Sorted Array](26-remove-duplicates-from-sorted-array/) | Easy | 2026-09-30 |
 | 1021 | [Remove Outermost Parentheses](1021-remove-outermost-parentheses/) | Easy | 2026-09-30 |
+| 2885 | [Rename Columns](2885-rename-columns/) | Easy | 2026-09-30 |
 | 344 | [Reverse String](344-reverse-string/) | Easy | 2026-09-30 |
 | 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/) | Easy | 2026-09-30 |
 | 189 | [Rotate Array](189-rotate-array/) | Medium | 2026-09-30 |
@@ -110,5 +111,5 @@ Solved: 65 (Easy: 44, Medium: 21, Hard: 0)
 | 167 | [Two Sum II - Input Array Is Sorted](167-two-sum-ii-input-array-is-sorted/) | Medium | 2026-09-30 |
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-09-30 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-09-30 |
-| 2885 | [Rename Columns](2885-rename-columns/) | Easy | 2026-09-30 |
+| 2886 | [Change Data Type](2886-change-data-type/) | Easy | 2026-09-30 |
 <!-- LEETHUB:TABLE:END -->
