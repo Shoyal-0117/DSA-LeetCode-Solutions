@@ -42,7 +42,7 @@ Solutions are synced to GitHub using **LeetHub**, while meaningful alternative a
 
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 61 (Easy: 42, Medium: 19, Hard: 0)
+Solved: 62 (Easy: 42, Medium: 20, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -82,6 +82,7 @@ Solved: 61 (Easy: 42, Medium: 19, Hard: 0)
 | 209 | [Minimum Size Subarray Sum](209-minimum-size-subarray-sum/) | Medium | 2026-09-30 |
 | 268 | [Missing Number](268-missing-number/) | Easy | 2026-09-30 |
 | 283 | [Move Zeroes](283-move-zeroes/) | Easy | 2026-09-30 |
+| 496 | [Next Greater Element I](496-next-greater-element-i/) | Easy | 2026-09-30 |
 | 200 | [Number of Islands](200-number-of-islands/) | Medium | 2026-09-30 |
 | 303 | [Range Sum Query - Immutable](303-range-sum-query-immutable/) | Easy | 2026-09-30 |
 | 1757 | [Recyclable and Low Fat Products](1757-recyclable-and-low-fat-products/) | Easy | 2026-09-30 |
@@ -106,5 +107,5 @@ Solved: 61 (Easy: 42, Medium: 19, Hard: 0)
 | 167 | [Two Sum II - Input Array Is Sorted](167-two-sum-ii-input-array-is-sorted/) | Medium | 2026-09-30 |
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-09-30 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-09-30 |
-| 496 | [Next Greater Element I](496-next-greater-element-i/) | Easy | 2026-09-30 |
+| 739 | [Daily Temperatures](739-daily-temperatures/) | Medium | 2026-09-30 |
 <!-- LEETHUB:TABLE:END -->
