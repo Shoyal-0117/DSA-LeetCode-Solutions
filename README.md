@@ -68,6 +68,7 @@ Solved: 73 (Easy: 50, Medium: 22, Hard: 1)
 | 34 | [Find First and Last Position of Element in Sorted Array](34-find-first-and-last-position-of-element-in-sorted-array/) | Medium | 2026-10-02 |
 | 724 | [Find Pivot Index](724-find-pivot-index/) | Easy | 2026-10-02 |
 | 733 | [Flood Fill](733-flood-fill/) | Easy | 2026-10-02 |
+| 22 | [Generate Parentheses](22-generate-parentheses/) | Medium | 2026-10-02 |
 | 2878 | [Get the Size of a DataFrame](2878-get-the-size-of-a-dataframe/) | Easy | 2026-10-02 |
 | 232 | [Implement Queue using Stacks](232-implement-queue-using-stacks/) | Easy | 2026-10-02 |
 | 225 | [Implement Stack using Queues](225-implement-stack-using-queues/) | Easy | 2026-10-02 |
@@ -118,5 +119,4 @@ Solved: 73 (Easy: 50, Medium: 22, Hard: 1)
 | 167 | [Two Sum II - Input Array Is Sorted](167-two-sum-ii-input-array-is-sorted/) | Medium | 2026-10-02 |
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-10-02 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-10-02 |
-| 22 | [Generate Parentheses](22-generate-parentheses/) | Medium | 2026-10-02 |
 <!-- LEETHUB:TABLE:END -->
