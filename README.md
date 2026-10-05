@@ -104,6 +104,7 @@ Solved: 76 (Easy: 50, Medium: 24, Hard: 2)
 | 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/) | Easy | 2026-10-05 |
 | 189 | [Rotate Array](189-rotate-array/) | Medium | 2026-10-05 |
 | 48 | [Rotate Image](48-rotate-image/) | Medium | 2026-10-05 |
+| 856 | [Score of Parentheses](856-score-of-parentheses/) | Medium | 2026-10-05 |
 | 74 | [Search a 2D Matrix](74-search-a-2d-matrix/) | Medium | 2026-10-05 |
 | 240 | [Search a 2D Matrix II](240-search-a-2d-matrix-ii/) | Medium | 2026-10-05 |
 | 35 | [Search Insert Position](35-search-insert-position/) | Easy | 2026-10-05 |
@@ -121,5 +122,4 @@ Solved: 76 (Easy: 50, Medium: 24, Hard: 2)
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-10-05 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-10-05 |
 | 678 | [Valid Parenthesis String](678-valid-parenthesis-string/) | Medium | 2026-10-05 |
-| 856 | [Score of Parentheses](856-score-of-parentheses/) | Medium | 2026-10-05 |
 <!-- LEETHUB:TABLE:END -->
