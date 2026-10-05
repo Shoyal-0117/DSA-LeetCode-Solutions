@@ -1,10 +1,10 @@
-// 0 ms | 8 MB
+// 0 ms | 7.9 MB
 class Solution {
 public:
     int scoreOfParentheses(string s) {
         int score = 0, depth = 0;
 
-        for (int i = 0; i < s.size(); i++) {
+        for (int i = 0; i < s.length(); i++) {
             if (s[i] == '(') {
                 depth++;
             } else {
