@@ -1,60 +1,36 @@
-// 1673 ms | 796 MB
+// 1 ms | 11.4 MB
 class Solution {
-public:
-    unordered_set<string> ans;
+    vector<string> ans;
 
-    void backtrack(string& s, int index, int leftRemove, int rightRemove, int balance, string current) {    
-        // Finished processing the string
-        if (index == s.size()) {
-            if (leftRemove == 0 && rightRemove == 0 && balance == 0) {
-                ans.insert(current);
+    void dfs(string s, int start, int last, char open, char close){
+        int balance = 0;
+
+        for(int i = start; i<s.size(); i++){
+            if(s[i] == open) balance++;
+            if(s[i] == close) balance--;
+
+            if(balance >= 0) continue;
+
+            for(int j = last; j<=i; j++){
+                if(s[j] == close && (j==last || s[j-1] != close)){
+                    dfs(s.substr(0, j) + s.substr(j+1), i, j, open, close);
+                }
             }
+
             return;
         }
 
-        char ch = s[index];
+        reverse(s.begin(), s.end());
 
-        if (ch == '(') {
-            // Remove '('
-            if (leftRemove > 0) {
-                backtrack(s, index + 1, leftRemove - 1, rightRemove, balance, current);
-            }
-            // Keep '('
-            backtrack(s, index + 1, leftRemove, rightRemove, balance + 1, current + ch);
-        }
-        else if (ch == ')') {
-            // Remove ')'
-            if (rightRemove > 0) {
-                backtrack(s, index + 1, leftRemove, rightRemove - 1, balance, current);
-            }
-            // Keep ')' only if it has a matching '('
-            if (balance > 0) {
-                backtrack(s, index + 1, leftRemove, rightRemove, balance - 1, current + ch);
-            }
-        }
-        else {
-            backtrack(s, index + 1, leftRemove, rightRemove, balance, current + ch);
+        if(open=='('){
+            dfs(s, 0, 0, ')', '(');
+        }else{
+            ans.push_back(s);
         }
     }
-
+public:
     vector<string> removeInvalidParentheses(string s) {
-
-        int leftRemove = 0;
-        int rightRemove = 0;
-        // Find minimum number of removals
-        for (char ch : s) {
-            if (ch == '(') {
-                leftRemove++;
-            }
-            else if (ch == ')') {
-                if (leftRemove > 0)
-                    leftRemove--;
-                else
-                    rightRemove++;
-            }
-        }
-        // Start backtracking
-        backtrack(s, 0, leftRemove, rightRemove, 0, "");
-        return vector<string>(ans.begin(), ans.end());
+        dfs(s, 0, 0, '(', ')');
+        return ans;
     }
 };
