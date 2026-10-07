@@ -96,6 +96,7 @@ Solved: 78 (Easy: 50, Medium: 25, Hard: 3)
 | 303 | [Range Sum Query - Immutable](303-range-sum-query-immutable/) | Easy | 2026-10-07 |
 | 1757 | [Recyclable and Low Fat Products](1757-recyclable-and-low-fat-products/) | Easy | 2026-10-07 |
 | 26 | [Remove Duplicates from Sorted Array](26-remove-duplicates-from-sorted-array/) | Easy | 2026-10-07 |
+| 301 | [Remove Invalid Parentheses](301-remove-invalid-parentheses/) | Hard | 2026-10-07 |
 | 1021 | [Remove Outermost Parentheses](1021-remove-outermost-parentheses/) | Easy | 2026-10-07 |
 | 2885 | [Rename Columns](2885-rename-columns/) | Easy | 2026-10-07 |
 | 2888 | [Reshape Data: Concatenate](2888-reshape-data-concatenate/) | Easy | 2026-10-07 |
@@ -123,5 +124,4 @@ Solved: 78 (Easy: 50, Medium: 25, Hard: 3)
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-10-07 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-10-07 |
 | 678 | [Valid Parenthesis String](678-valid-parenthesis-string/) | Medium | 2026-10-07 |
-| 301 | [Remove Invalid Parentheses](301-remove-invalid-parentheses/) | Hard | 2026-10-07 |
 <!-- LEETHUB:TABLE:END -->
