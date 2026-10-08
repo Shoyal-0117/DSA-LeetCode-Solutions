@@ -1,23 +1,15 @@
-// 3 ms | 9 MB
+// 0 ms | 9 MB
 class Solution {
 public:
     string removeOuterParentheses(string s) {
-        string result;
-        int counter = 0;
-        for(auto ch : s){
-            if ( ch == '('){
-                if(counter > 0){
-                    result += ch;
-                }
-                counter++;
-            }
-            else{
-                counter--;
-                if( counter > 0){
-                    result += ch;
-                }
-            }
-        }
-        return result;
+        // Dyck Path
+        string res;
+        int lvl = 0;
+        
+        for (auto& c : s)
+            if ((c == '(' && lvl++) || (c == ')' && --lvl))
+                res += c;
+
+        return res;
     }
 };
