@@ -1,14 +1,14 @@
-// 0 ms | 8 MB
+// 0 ms | 7.9 MB
 class Solution {
 public:
     int numberOfSteps(int num) {
         int step = 0;
         while (num) {
             step++;
-            if (num % 2 == 0)
-                num /= 2;
-            else
+            if (num & 1)
                 num--;
+            else
+                num >>= 1;
         }
         return step;
     }
