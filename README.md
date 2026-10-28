@@ -95,6 +95,7 @@ Solved: 83 (Easy: 54, Medium: 26, Hard: 3)
 | 283 | [Move Zeroes](283-move-zeroes/) | Easy | 2026-10-28 |
 | 496 | [Next Greater Element I](496-next-greater-element-i/) | Easy | 2026-10-28 |
 | 200 | [Number of Islands](200-number-of-islands/) | Medium | 2026-10-28 |
+| 1342 | [Number of Steps to Reduce a Number to Zero](1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy | 2026-10-28 |
 | 901 | [Online Stock Span](901-online-stock-span/) | Medium | 2026-10-28 |
 | 303 | [Range Sum Query - Immutable](303-range-sum-query-immutable/) | Easy | 2026-10-28 |
 | 1757 | [Recyclable and Low Fat Products](1757-recyclable-and-low-fat-products/) | Easy | 2026-10-28 |
@@ -128,5 +129,4 @@ Solved: 83 (Easy: 54, Medium: 26, Hard: 3)
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-10-28 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-10-28 |
 | 678 | [Valid Parenthesis String](678-valid-parenthesis-string/) | Medium | 2026-10-28 |
-| 1342 | [Number of Steps to Reduce a Number to Zero](1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy | 2026-10-28 |
 <!-- LEETHUB:TABLE:END -->
