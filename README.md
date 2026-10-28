@@ -63,6 +63,7 @@ Solved: 82 (Easy: 53, Medium: 26, Hard: 3)
 | 2879 | [Display the First Three Rows](2879-display-the-first-three-rows/) | Easy | 2026-10-28 |
 | 2882 | [Drop Duplicate Rows](2882-drop-duplicate-rows/) | Easy | 2026-10-28 |
 | 2883 | [Drop Missing Data](2883-drop-missing-data/) | Easy | 2026-10-28 |
+| 509 | [Fibonacci Number](509-fibonacci-number/) | Easy | 2026-10-28 |
 | 2887 | [Fill Missing Data](2887-fill-missing-data/) | Easy | 2026-10-28 |
 | 584 | [Find Customer Referee](584-find-customer-referee/) | Easy | 2026-10-28 |
 | 34 | [Find First and Last Position of Element in Sorted Array](34-find-first-and-last-position-of-element-in-sorted-array/) | Medium | 2026-10-28 |
@@ -127,5 +128,4 @@ Solved: 82 (Easy: 53, Medium: 26, Hard: 3)
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-10-28 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-10-28 |
 | 678 | [Valid Parenthesis String](678-valid-parenthesis-string/) | Medium | 2026-10-28 |
-| 509 | [Fibonacci Number](509-fibonacci-number/) | Easy | 2026-10-28 |
 <!-- LEETHUB:TABLE:END -->
