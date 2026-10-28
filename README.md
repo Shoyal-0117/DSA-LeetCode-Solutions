@@ -42,89 +42,90 @@ Solutions are synced to GitHub using **LeetHub**, while meaningful alternative a
 
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 81 (Easy: 52, Medium: 26, Hard: 3)
+Solved: 82 (Easy: 53, Medium: 26, Hard: 3)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
-| 717 | [1-bit and 2-bit Characters](717-1-bit-and-2-bit-characters/) | Easy | 2026-10-12 |
-| 15 | [3Sum](15-3sum/) | Medium | 2026-10-12 |
-| 844 | [Backspace String Compare](844-backspace-string-compare/) | Easy | 2026-10-12 |
-| 595 | [Big Countries](595-big-countries/) | Easy | 2026-10-12 |
-| 2886 | [Change Data Type](2886-change-data-type/) | Easy | 2026-10-12 |
-| 11 | [Container With Most Water](11-container-with-most-water/) | Medium | 2026-10-12 |
-| 4048 | [Count Values With Equally Spaced Occurrences I](4048-count-values-with-equally-spaced-occurrences-i/) | Easy | 2026-10-12 |
-| 4049 | [Count Values With Equally Spaced Occurrences II](4049-count-values-with-equally-spaced-occurrences-ii/) | Medium | 2026-10-12 |
-| 2620 | [Counter](2620-counter/) | Easy | 2026-10-12 |
-| 2877 | [Create a DataFrame from List](2877-create-a-dataframe-from-list/) | Easy | 2026-10-12 |
-| 2881 | [Create a New Column](2881-create-a-new-column/) | Easy | 2026-10-12 |
-| 2667 | [Create Hello World Function](2667-create-hello-world-function/) | Easy | 2026-10-12 |
-| 739 | [Daily Temperatures](739-daily-temperatures/) | Medium | 2026-10-12 |
-| 1886 | [Determine Whether Matrix Can Be Obtained By Rotation](1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy | 2026-10-12 |
-| 2879 | [Display the First Three Rows](2879-display-the-first-three-rows/) | Easy | 2026-10-12 |
-| 2882 | [Drop Duplicate Rows](2882-drop-duplicate-rows/) | Easy | 2026-10-12 |
-| 2883 | [Drop Missing Data](2883-drop-missing-data/) | Easy | 2026-10-12 |
-| 2887 | [Fill Missing Data](2887-fill-missing-data/) | Easy | 2026-10-12 |
-| 584 | [Find Customer Referee](584-find-customer-referee/) | Easy | 2026-10-12 |
-| 34 | [Find First and Last Position of Element in Sorted Array](34-find-first-and-last-position-of-element-in-sorted-array/) | Medium | 2026-10-12 |
-| 724 | [Find Pivot Index](724-find-pivot-index/) | Easy | 2026-10-12 |
-| 733 | [Flood Fill](733-flood-fill/) | Easy | 2026-10-12 |
-| 22 | [Generate Parentheses](22-generate-parentheses/) | Medium | 2026-10-12 |
-| 2878 | [Get the Size of a DataFrame](2878-get-the-size-of-a-dataframe/) | Easy | 2026-10-12 |
-| 232 | [Implement Queue using Stacks](232-implement-queue-using-stacks/) | Easy | 2026-10-12 |
-| 225 | [Implement Stack using Queues](225-implement-stack-using-queues/) | Easy | 2026-10-12 |
-| 215 | [Kth Largest Element in an Array](215-kth-largest-element-in-an-array/) | Medium | 2026-10-12 |
-| 14 | [Longest Common Prefix](14-longest-common-prefix/) | Easy | 2026-10-12 |
-| 3 | [Longest Substring Without Repeating Characters](3-longest-substring-without-repeating-characters/) | Medium | 2026-10-12 |
-| 32 | [Longest Valid Parentheses](32-longest-valid-parentheses/) | Hard | 2026-10-12 |
-| 169 | [Majority Element](169-majority-element/) | Easy | 2026-10-12 |
-| 1572 | [Matrix Diagonal Sum](1572-matrix-diagonal-sum/) | Easy | 2026-10-12 |
-| 1004 | [Max Consecutive Ones III](1004-max-consecutive-ones-iii/) | Medium | 2026-10-12 |
-| 643 | [Maximum Average Subarray I](643-maximum-average-subarray-i/) | Easy | 2026-10-12 |
-| 1614 | [Maximum Nesting Depth of the Parentheses](1614-maximum-nesting-depth-of-the-parentheses/) | Easy | 2026-10-12 |
-| 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium | 2026-10-12 |
-| 88 | [Merge Sorted Array](88-merge-sorted-array/) | Easy | 2026-10-12 |
-| 2891 | [Method Chaining](2891-method-chaining/) | Easy | 2026-10-12 |
-| 921 | [Minimum Add to Make Parentheses Valid](921-minimum-add-to-make-parentheses-valid/) | Medium | 2026-10-12 |
-| 1541 | [Minimum Insertions to Balance a Parentheses String](1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium | 2026-10-12 |
-| 4053 | [Minimum Operations to Make Every Element Palindromic](4053-minimum-operations-to-make-every-element-palindromic/) | Medium | 2026-10-12 |
-| 209 | [Minimum Size Subarray Sum](209-minimum-size-subarray-sum/) | Medium | 2026-10-12 |
-| 268 | [Missing Number](268-missing-number/) | Easy | 2026-10-12 |
-| 2884 | [Modify Columns](2884-modify-columns/) | Easy | 2026-10-12 |
-| 283 | [Move Zeroes](283-move-zeroes/) | Easy | 2026-10-12 |
-| 496 | [Next Greater Element I](496-next-greater-element-i/) | Easy | 2026-10-12 |
-| 200 | [Number of Islands](200-number-of-islands/) | Medium | 2026-10-12 |
-| 901 | [Online Stock Span](901-online-stock-span/) | Medium | 2026-10-12 |
-| 303 | [Range Sum Query - Immutable](303-range-sum-query-immutable/) | Easy | 2026-10-12 |
-| 1757 | [Recyclable and Low Fat Products](1757-recyclable-and-low-fat-products/) | Easy | 2026-10-12 |
-| 26 | [Remove Duplicates from Sorted Array](26-remove-duplicates-from-sorted-array/) | Easy | 2026-10-12 |
-| 301 | [Remove Invalid Parentheses](301-remove-invalid-parentheses/) | Hard | 2026-10-12 |
-| 1021 | [Remove Outermost Parentheses](1021-remove-outermost-parentheses/) | Easy | 2026-10-12 |
-| 2885 | [Rename Columns](2885-rename-columns/) | Easy | 2026-10-12 |
-| 2888 | [Reshape Data: Concatenate](2888-reshape-data-concatenate/) | Easy | 2026-10-12 |
-| 2890 | [Reshape Data: Melt](2890-reshape-data-melt/) | Easy | 2026-10-12 |
-| 2889 | [Reshape Data: Pivot](2889-reshape-data-pivot/) | Easy | 2026-10-12 |
-| 344 | [Reverse String](344-reverse-string/) | Easy | 2026-10-12 |
-| 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/) | Easy | 2026-10-12 |
-| 189 | [Rotate Array](189-rotate-array/) | Medium | 2026-10-12 |
-| 48 | [Rotate Image](48-rotate-image/) | Medium | 2026-10-12 |
-| 856 | [Score of Parentheses](856-score-of-parentheses/) | Medium | 2026-10-12 |
-| 74 | [Search a 2D Matrix](74-search-a-2d-matrix/) | Medium | 2026-10-12 |
-| 240 | [Search a 2D Matrix II](240-search-a-2d-matrix-ii/) | Medium | 2026-10-12 |
-| 35 | [Search Insert Position](35-search-insert-position/) | Easy | 2026-10-12 |
-| 2880 | [Select Data](2880-select-data/) | Easy | 2026-10-12 |
-| 73 | [Set Matrix Zeroes](73-set-matrix-zeroes/) | Medium | 2026-10-12 |
-| 239 | [Sliding Window Maximum](239-sliding-window-maximum/) | Hard | 2026-10-12 |
-| 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy | 2026-10-12 |
-| 75 | [Sort Colors](75-sort-colors/) | Medium | 2026-10-12 |
-| 54 | [Spiral Matrix](54-spiral-matrix/) | Medium | 2026-10-12 |
-| 2778 | [Sum of Squares of Special Elements ](2778-sum-of-squares-of-special-elements/) | Easy | 2026-10-12 |
-| 414 | [Third Maximum Number](414-third-maximum-number/) | Easy | 2026-10-12 |
-| 2704 | [To Be Or Not To Be](2704-to-be-or-not-to-be/) | Easy | 2026-10-12 |
-| 867 | [Transpose Matrix](867-transpose-matrix/) | Easy | 2026-10-12 |
-| 1 | [Two Sum](1-two-sum/) | Easy | 2026-10-12 |
-| 167 | [Two Sum II - Input Array Is Sorted](167-two-sum-ii-input-array-is-sorted/) | Medium | 2026-10-12 |
-| 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-10-12 |
-| 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-10-12 |
-| 678 | [Valid Parenthesis String](678-valid-parenthesis-string/) | Medium | 2026-10-12 |
-| 21 | [Merge Two Sorted Lists](21-merge-two-sorted-lists/) | Easy | 2026-10-12 |
+| 717 | [1-bit and 2-bit Characters](717-1-bit-and-2-bit-characters/) | Easy | 2026-10-28 |
+| 15 | [3Sum](15-3sum/) | Medium | 2026-10-28 |
+| 844 | [Backspace String Compare](844-backspace-string-compare/) | Easy | 2026-10-28 |
+| 595 | [Big Countries](595-big-countries/) | Easy | 2026-10-28 |
+| 2886 | [Change Data Type](2886-change-data-type/) | Easy | 2026-10-28 |
+| 11 | [Container With Most Water](11-container-with-most-water/) | Medium | 2026-10-28 |
+| 4048 | [Count Values With Equally Spaced Occurrences I](4048-count-values-with-equally-spaced-occurrences-i/) | Easy | 2026-10-28 |
+| 4049 | [Count Values With Equally Spaced Occurrences II](4049-count-values-with-equally-spaced-occurrences-ii/) | Medium | 2026-10-28 |
+| 2620 | [Counter](2620-counter/) | Easy | 2026-10-28 |
+| 2877 | [Create a DataFrame from List](2877-create-a-dataframe-from-list/) | Easy | 2026-10-28 |
+| 2881 | [Create a New Column](2881-create-a-new-column/) | Easy | 2026-10-28 |
+| 2667 | [Create Hello World Function](2667-create-hello-world-function/) | Easy | 2026-10-28 |
+| 739 | [Daily Temperatures](739-daily-temperatures/) | Medium | 2026-10-28 |
+| 1886 | [Determine Whether Matrix Can Be Obtained By Rotation](1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy | 2026-10-28 |
+| 2879 | [Display the First Three Rows](2879-display-the-first-three-rows/) | Easy | 2026-10-28 |
+| 2882 | [Drop Duplicate Rows](2882-drop-duplicate-rows/) | Easy | 2026-10-28 |
+| 2883 | [Drop Missing Data](2883-drop-missing-data/) | Easy | 2026-10-28 |
+| 2887 | [Fill Missing Data](2887-fill-missing-data/) | Easy | 2026-10-28 |
+| 584 | [Find Customer Referee](584-find-customer-referee/) | Easy | 2026-10-28 |
+| 34 | [Find First and Last Position of Element in Sorted Array](34-find-first-and-last-position-of-element-in-sorted-array/) | Medium | 2026-10-28 |
+| 724 | [Find Pivot Index](724-find-pivot-index/) | Easy | 2026-10-28 |
+| 733 | [Flood Fill](733-flood-fill/) | Easy | 2026-10-28 |
+| 22 | [Generate Parentheses](22-generate-parentheses/) | Medium | 2026-10-28 |
+| 2878 | [Get the Size of a DataFrame](2878-get-the-size-of-a-dataframe/) | Easy | 2026-10-28 |
+| 232 | [Implement Queue using Stacks](232-implement-queue-using-stacks/) | Easy | 2026-10-28 |
+| 225 | [Implement Stack using Queues](225-implement-stack-using-queues/) | Easy | 2026-10-28 |
+| 215 | [Kth Largest Element in an Array](215-kth-largest-element-in-an-array/) | Medium | 2026-10-28 |
+| 14 | [Longest Common Prefix](14-longest-common-prefix/) | Easy | 2026-10-28 |
+| 3 | [Longest Substring Without Repeating Characters](3-longest-substring-without-repeating-characters/) | Medium | 2026-10-28 |
+| 32 | [Longest Valid Parentheses](32-longest-valid-parentheses/) | Hard | 2026-10-28 |
+| 169 | [Majority Element](169-majority-element/) | Easy | 2026-10-28 |
+| 1572 | [Matrix Diagonal Sum](1572-matrix-diagonal-sum/) | Easy | 2026-10-28 |
+| 1004 | [Max Consecutive Ones III](1004-max-consecutive-ones-iii/) | Medium | 2026-10-28 |
+| 643 | [Maximum Average Subarray I](643-maximum-average-subarray-i/) | Easy | 2026-10-28 |
+| 1614 | [Maximum Nesting Depth of the Parentheses](1614-maximum-nesting-depth-of-the-parentheses/) | Easy | 2026-10-28 |
+| 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium | 2026-10-28 |
+| 88 | [Merge Sorted Array](88-merge-sorted-array/) | Easy | 2026-10-28 |
+| 21 | [Merge Two Sorted Lists](21-merge-two-sorted-lists/) | Easy | 2026-10-28 |
+| 2891 | [Method Chaining](2891-method-chaining/) | Easy | 2026-10-28 |
+| 921 | [Minimum Add to Make Parentheses Valid](921-minimum-add-to-make-parentheses-valid/) | Medium | 2026-10-28 |
+| 1541 | [Minimum Insertions to Balance a Parentheses String](1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium | 2026-10-28 |
+| 4053 | [Minimum Operations to Make Every Element Palindromic](4053-minimum-operations-to-make-every-element-palindromic/) | Medium | 2026-10-28 |
+| 209 | [Minimum Size Subarray Sum](209-minimum-size-subarray-sum/) | Medium | 2026-10-28 |
+| 268 | [Missing Number](268-missing-number/) | Easy | 2026-10-28 |
+| 2884 | [Modify Columns](2884-modify-columns/) | Easy | 2026-10-28 |
+| 283 | [Move Zeroes](283-move-zeroes/) | Easy | 2026-10-28 |
+| 496 | [Next Greater Element I](496-next-greater-element-i/) | Easy | 2026-10-28 |
+| 200 | [Number of Islands](200-number-of-islands/) | Medium | 2026-10-28 |
+| 901 | [Online Stock Span](901-online-stock-span/) | Medium | 2026-10-28 |
+| 303 | [Range Sum Query - Immutable](303-range-sum-query-immutable/) | Easy | 2026-10-28 |
+| 1757 | [Recyclable and Low Fat Products](1757-recyclable-and-low-fat-products/) | Easy | 2026-10-28 |
+| 26 | [Remove Duplicates from Sorted Array](26-remove-duplicates-from-sorted-array/) | Easy | 2026-10-28 |
+| 301 | [Remove Invalid Parentheses](301-remove-invalid-parentheses/) | Hard | 2026-10-28 |
+| 1021 | [Remove Outermost Parentheses](1021-remove-outermost-parentheses/) | Easy | 2026-10-28 |
+| 2885 | [Rename Columns](2885-rename-columns/) | Easy | 2026-10-28 |
+| 2888 | [Reshape Data: Concatenate](2888-reshape-data-concatenate/) | Easy | 2026-10-28 |
+| 2890 | [Reshape Data: Melt](2890-reshape-data-melt/) | Easy | 2026-10-28 |
+| 2889 | [Reshape Data: Pivot](2889-reshape-data-pivot/) | Easy | 2026-10-28 |
+| 344 | [Reverse String](344-reverse-string/) | Easy | 2026-10-28 |
+| 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/) | Easy | 2026-10-28 |
+| 189 | [Rotate Array](189-rotate-array/) | Medium | 2026-10-28 |
+| 48 | [Rotate Image](48-rotate-image/) | Medium | 2026-10-28 |
+| 856 | [Score of Parentheses](856-score-of-parentheses/) | Medium | 2026-10-28 |
+| 74 | [Search a 2D Matrix](74-search-a-2d-matrix/) | Medium | 2026-10-28 |
+| 240 | [Search a 2D Matrix II](240-search-a-2d-matrix-ii/) | Medium | 2026-10-28 |
+| 35 | [Search Insert Position](35-search-insert-position/) | Easy | 2026-10-28 |
+| 2880 | [Select Data](2880-select-data/) | Easy | 2026-10-28 |
+| 73 | [Set Matrix Zeroes](73-set-matrix-zeroes/) | Medium | 2026-10-28 |
+| 239 | [Sliding Window Maximum](239-sliding-window-maximum/) | Hard | 2026-10-28 |
+| 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy | 2026-10-28 |
+| 75 | [Sort Colors](75-sort-colors/) | Medium | 2026-10-28 |
+| 54 | [Spiral Matrix](54-spiral-matrix/) | Medium | 2026-10-28 |
+| 2778 | [Sum of Squares of Special Elements ](2778-sum-of-squares-of-special-elements/) | Easy | 2026-10-28 |
+| 414 | [Third Maximum Number](414-third-maximum-number/) | Easy | 2026-10-28 |
+| 2704 | [To Be Or Not To Be](2704-to-be-or-not-to-be/) | Easy | 2026-10-28 |
+| 867 | [Transpose Matrix](867-transpose-matrix/) | Easy | 2026-10-28 |
+| 1 | [Two Sum](1-two-sum/) | Easy | 2026-10-28 |
+| 167 | [Two Sum II - Input Array Is Sorted](167-two-sum-ii-input-array-is-sorted/) | Medium | 2026-10-28 |
+| 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-10-28 |
+| 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-10-28 |
+| 678 | [Valid Parenthesis String](678-valid-parenthesis-string/) | Medium | 2026-10-28 |
+| 509 | [Fibonacci Number](509-fibonacci-number/) | Easy | 2026-10-28 |
 <!-- LEETHUB:TABLE:END -->
