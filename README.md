@@ -42,7 +42,7 @@ Solutions are synced to GitHub using **LeetHub**, while meaningful alternative a
 
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 84 (Easy: 54, Medium: 27, Hard: 3)
+Solved: 85 (Easy: 55, Medium: 27, Hard: 3)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -97,6 +97,7 @@ Solved: 84 (Easy: 54, Medium: 27, Hard: 3)
 | 200 | [Number of Islands](200-number-of-islands/) | Medium | 2026-10-28 |
 | 1342 | [Number of Steps to Reduce a Number to Zero](1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy | 2026-10-28 |
 | 901 | [Online Stock Span](901-online-stock-span/) | Medium | 2026-10-28 |
+| 50 | [Pow(x, n)](50-powx-n/) | Medium | 2026-10-28 |
 | 303 | [Range Sum Query - Immutable](303-range-sum-query-immutable/) | Easy | 2026-10-28 |
 | 1757 | [Recyclable and Low Fat Products](1757-recyclable-and-low-fat-products/) | Easy | 2026-10-28 |
 | 26 | [Remove Duplicates from Sorted Array](26-remove-duplicates-from-sorted-array/) | Easy | 2026-10-28 |
@@ -129,5 +130,5 @@ Solved: 84 (Easy: 54, Medium: 27, Hard: 3)
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-10-28 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-10-28 |
 | 678 | [Valid Parenthesis String](678-valid-parenthesis-string/) | Medium | 2026-10-28 |
-| 50 | [Pow(x, n)](50-powx-n/) | Medium | 2026-10-28 |
+| 141 | [Linked List Cycle](141-linked-list-cycle/) | Easy | 2026-10-28 |
 <!-- LEETHUB:TABLE:END -->
