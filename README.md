@@ -42,7 +42,7 @@ Solutions are synced to GitHub using **LeetHub**, while meaningful alternative a
 
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 83 (Easy: 54, Medium: 26, Hard: 3)
+Solved: 84 (Easy: 54, Medium: 27, Hard: 3)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -129,4 +129,5 @@ Solved: 83 (Easy: 54, Medium: 26, Hard: 3)
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-10-28 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-10-28 |
 | 678 | [Valid Parenthesis String](678-valid-parenthesis-string/) | Medium | 2026-10-28 |
+| 50 | [Pow(x, n)](50-powx-n/) | Medium | 2026-10-28 |
 <!-- LEETHUB:TABLE:END -->
