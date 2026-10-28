@@ -42,7 +42,7 @@ Solutions are synced to GitHub using **LeetHub**, while meaningful alternative a
 
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 85 (Easy: 55, Medium: 27, Hard: 3)
+Solved: 86 (Easy: 56, Medium: 27, Hard: 3)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -74,6 +74,7 @@ Solved: 85 (Easy: 55, Medium: 27, Hard: 3)
 | 232 | [Implement Queue using Stacks](232-implement-queue-using-stacks/) | Easy | 2026-10-28 |
 | 225 | [Implement Stack using Queues](225-implement-stack-using-queues/) | Easy | 2026-10-28 |
 | 215 | [Kth Largest Element in an Array](215-kth-largest-element-in-an-array/) | Medium | 2026-10-28 |
+| 141 | [Linked List Cycle](141-linked-list-cycle/) | Easy | 2026-10-28 |
 | 14 | [Longest Common Prefix](14-longest-common-prefix/) | Easy | 2026-10-28 |
 | 3 | [Longest Substring Without Repeating Characters](3-longest-substring-without-repeating-characters/) | Medium | 2026-10-28 |
 | 32 | [Longest Valid Parentheses](32-longest-valid-parentheses/) | Hard | 2026-10-28 |
@@ -130,5 +131,5 @@ Solved: 85 (Easy: 55, Medium: 27, Hard: 3)
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-10-28 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-10-28 |
 | 678 | [Valid Parenthesis String](678-valid-parenthesis-string/) | Medium | 2026-10-28 |
-| 141 | [Linked List Cycle](141-linked-list-cycle/) | Easy | 2026-10-28 |
+| 796 | [Rotate String](796-rotate-string/) | Easy | 2026-10-28 |
 <!-- LEETHUB:TABLE:END -->
